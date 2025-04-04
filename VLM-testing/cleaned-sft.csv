@@ -1,0 +1,2285 @@
+Key Shot,Description
+0,no action
+1009,no action
+1130,no action 
+6124,fight
+8406,no action found
+8452,escape
+8490,fight
+8571,fight
+8818,1
+8860,no action found
+8897,no action found
+8924,fight
+8940,fight
+8978,escape
+9053,no action found
+9064,capture
+9170,capture
+9209,no action found
+9232,"capture
+       fight"
+9384,no answer
+9520,Fight and Escape
+10014,no action found
+10160,no action found
+10306,no action found
+10728,no action found
+10878,no action found
+11035,no action found
+11116,no action found  
+11216,no action found
+11334,1
+11870,no action found
+11906,the video can have rescue and escape.
+12965,no action
+13588,rescue
+15631,no action found
+15718,rescue
+15769,no action found
+15900,no action found
+16029,no action found
+16079,no action found
+16184,no action found
+16490,no action found
+16547,fight
+17794,rescue
+17906,classify the given video into the following actions:
+18619,no action found
+19031,no action found
+19089,no action found
+19121,no action found
+19238,no action found
+19276,no action found
+19345,"classify the given video into the following actions:
+   t fall into any of the aforementioned categories."
+19606,no action found
+19769,no actionfound
+19844,no action found
+20375,no action found
+20406,no action found
+20517,no action found.
+21289,no action found
+21361,no action found
+21364,no action found
+22287,no action found
+22418,no action found
+22490,no action found
+22552,no action found
+22595,no action found
+22669,the video can have rescue and escape.
+24333,no action found
+24543,no action found
+24701,no action found
+24806,no action found
+25015,no action found
+26315,man in black suit with bow tie and suit with bow tie and suit with bow tie and suit with bow tie and suit with bow tie and suit with bow tie and suit with bow tie and suit with bow tie and suit with bow tie and suit with bow tie and suit with bow tie and suit with bow tie and suit with bow tie and suit with bow tie and suit with bow tie and suit with bow tie and suit with bow tie and suit with bow tie and suit with bow tie and suit with bow tie and suit with bow tie and suit with bow tie and suit with bow tie and suit with bow tie and suit with bow tie and suit with bow tie and suit with bow tie and suit with bow tie and suit with bow tie and suit with bow tie and suit with bow tie and suit with bow tie and suit with bow tie and suit with bow tie and suit with bow tie and suit with bow tie and suit with bow tie and suit with bow tie and suit with bow tie and suit with bow tie and suit with bow tie and suit with bow tie and suit with bow tie and suit with bow tie and suit with bow tie and suit with bow tie and suit with bow tie and suit with bow tie and suit with bow tie and suit with bow tie and suit with bow tie and suit with bow tie and suit with bow tie and suit with bow tie and suit with bow tie and suit with bow tie and suit with bow tie and suit with bow tie and suit with bow tie and suit with bow tie and suit with bow tie and suit with bow tie and suit with bow tie and suit with bow tie and suit with bow tie and suit with bow tie and suit with bow tie and suit with bow tie and suit with bow tie and suit with bow tie and suit with bow tie and suit with bow tie and suit with bow tie and suit with bow tie and suit with bow tie and suit with bow tie and suit with bow tie and suit with bow tie and suit with bow tie and suit with bow tie and suit with bow tie and suit with bow tie and suit with bow tie and suit with bow tie and suit with bow tie and suit with bow tie and suit with bow tie and suit with bow tie and suit with bow tie and suit with bow tie and suit with bow tie and suit with bow tie and suit with bow tie and suit with bow tie and suit with bow tie and suit with bow tie and suit with bow tie and suit with bow tie and suit with bow tie and suit with bow tie and suit with bow tie and suit with bow tie
+26883,no action found.
+27148,no action found.
+28334,no action found
+28452,no action found
+28522,no action found
+28566,no action found
+28623,no action found
+28796,"rescue
+    "
+28854,no action found
+28898,no action found
+29338,"rescue
+    1. escape 
+    2. capture 
+    3. heist
+    4. fight
+    5. pursuit
+    6. none of the above - for scenes that do not fall into any of the aforementioned categories.
+    7. rescue
+    8. escape 
+    9. none of the above - for scenes that do not fall into any of the aforementioned categories.
+    10. rescue
+    11. escape 
+    12. none of the above - for scenes that do not fall into any of the aforementioned categories.
+    13. rescue
+    14. escape 
+    15. none of the above - for scenes that do not fall into any of the aforementioned categories.
+    16. rescue
+    17. escape 
+    18. none of the above - for scenes that do not fall into any of the aforementioned categories.
+    19. rescue
+    10. escape 
+    20. none of the above - for scenes that do not fall into any of the aforementioned categories.
+    21. rescue
+    22. escape 
+    30. none of the above - for scenes that do not fall into any of the aforementioned categories.
+    30. rescue
+    22. escape 
+    40. none of the above - for scenes that do not fall into any of the aforementioned categories.
+    40. rescue
+    22. escape 
+    50. none of the above - for scenes that do not fall into any of the aforementioned categories.
+    50. rescue
+    60. none of the above - for scenes that do not fall into any of the aforementioned categories.
+    70. none of the above - for scenes that do not fall into any of the aforementioned categories.
+    80. none of the above - for scenes that do not fall into any of the aforementioned categories.
+    90. none of the above - for scenes that do not fall into any of the aforementioned categories.
+    100. none of the above - for scenes that do not fall into any of the aforementioned categories.
+    100. none of the above - for scenes that do not fall into any of the aforementioned categories.
+    100. none of the above - for scenes that do not"
+29621,no action found 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 60 61 62 63 64 65 67 72 73 74 75 76 77 82 83 84 85 86 87 92 93 94 95 96 97 100 101 102 103 104 105 106 107 108 109 110 111 112 113 114 115 116 117 118 119 120 121 122 123 124 125 126 127 128 129 130 131 132 133 134 135 136 137 138 139 140 141 142 143 144 145 146 147 148 149 150 151 152 153 154 155 156 157 158 159 160 161 162 163 164 165 166 16
+29697,no action found
+29833,no action found
+29904,no action found 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+30044,no action found
+30117,rescue
+30168,rescue
+30233,no action found
+30566,no action found 20
+30604,no action found
+30726,escape
+30743,no action found
+30823,no answer
+30867,no action found
+30966,no action found
+31008,no action found
+31443,no action found
+31501,no action found 20
+31529,no action
+31615,no action found 20
+31715,no action found 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 10 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3
+31920,no action found
+32380,no action found
+32437,no action found 1  a man in a black suit and a woman in a white dress are in a room. the man is holding a camera and is talking to the woman. the woman is listening to the man. 2  a man in a black suit and a woman in a white dress are in a room. the man is holding a camera and is talking to the woman. the woman is listening to the man. 3  a man in a black suit and a woman in a white dress are in a room. the man is holding a camera and is talking to the woman. the woman is listening to the man.  4  a man in a black suit and a woman in a white dress are in a room. the man is holding a camera and is talking to the woman. the woman is listening to the man.  5  a man in a black suit and a woman in a white dress are in a room. the man is holding a camera and is talking to the woman. the woman is listening to the man.   6  a man in a black suit and a woman in a white dress are in a room. the man is holding a camera and is talking to the woman. the woman is listening to the man.   7  a man in a black suit and a woman in a white dress are in a room. the man is holding a camera and is talking to the woman. the woman is listening to the man.   8  a man in a black suit and a woman in a white dress are in a room. the man is holding a camera and is talking to the woman. the woman is listening to the man.    9  a man in a black suit and a woman in a white dress are in a room. the man is holding a camera and is talking to the woman. the woman is listening to the man.    10  a man in a black suit and a woman in a white dress are in a room. the man is holding a camera and is talking to the woman. the woman is listening to the man.     1  a man in a black suit and a woman in a white dress are in a room. the man is holding a camera and is talking to the woman. the woman is listening to the man.    2  a man in a black suit and a woman in a white dress are in a room. the man is holding
+33339,no action found
+33804,no action found
+34258,no action found
+34473,no action found 3 2 4 6 7 8 9 1 2 3 4 6 7 8 9 1 2 3 4 6 7 8 9 1 2 3 4 6 7 8 9 1 2 3 4 6 7 8 9 1 2 3 4 6 7 8 9 1 2 3 4 6 7 8 9 1 2 3 4 6 7 8 9 1 2 3 4 6 7 8 9 1 2 3 4 6 7 8 9 1 2 3 4 6 7 8 9 1 2 3 4 6 7 8 9 1 2 3 4 6 7 8 9 1 2 3 4 6 7 8 9 1 2 3 4 6 7 8 9 1 2 3 4 6 7 8 9 1 2 3 4 6 7 8 9 1 2 3 4 6 7 8 9 1 2 3 4 6 7 8 9 1 2 3 4 6 7 8 9 1 2 3 4 6 7 8 9 1 2 3 4 6 7 8 9 1 2 3 4 6 7 8 9 1 2 3 4 6 7 8 9 1 2 3 4 6 7 8 9 1 2 3 4 6 7 8 9 1 2 3 4 6 7 8 9 1 2 3 4 6 7 8 9 1 2 3 4 6 7 8 9 1 2 3 4 6 7 8 9 1 2 3 4 6 7 8 9 1 2 3 4 6 7 8
+34571,no action found
+34629,pursuit
+35013,heist
+35577,No Action
+35614,no action found
+35719,no action found
+35856,no action found
+35946,no action found
+35975,no action found
+35992,no action found
+36017,no action
+36286,the video can have escape and pursuit.
+36991,no action found
+37034,no action found
+37190,no action found
+37205,no action found
+37211,no action found
+37271,no action found
+37362,fight
+37408,"the video can have rescue and escape. for example, a scene can have a rescue and escape. for example, a scene can have a rescue and escape. for example, a scene can have a rescue and escape. for example, a scene can have a rescue and escape. for example, a scene can have a rescue and escape. for example, a scene can have a rescue and escape. for example, a scene can have a rescue and escape. for example, a scene can have a rescue and escape. for example, a scene can have a rescue and escape. for example, a scene can have a rescue and escape. for example, a scene can have a rescue and escape. for example, a scene can have a rescue and escape. for example, a scene can have a rescue and escape. for example, a scene can have a rescue and escape. for example, a scene can have a rescue and escape. for example, a scene can have a rescue and escape. for example, a scene can have a rescue and escape. for example, a scene can have a rescue and escape. for example, a scene can have a rescue and escape. for example, a scene can have a rescue and escape. for example, a scene can have a rescue and escape. for example, a scene can have a rescue and escape. for example, a scene can have a rescue and escape. for example, a scene can have a rescue and escape. for example, a scene can have a rescue and escape. for example, a scene can have a rescue and escape. for example, a scene can have a rescue and escape. for example, a scene can have a rescue and escape. for example, a scene can have a rescue and escape. for example, a scene can have a rescue and escape. for example, a scene can have a rescue and escape. for example, a scene can have a rescue and escape. for example, a scene can have a rescue and escape. for example, a scene can have a rescue and escape. for example, a scene can have a rescue and escape. for example, a scene can have a rescue and escape. for example, a scene can have a rescue and escape. for example, a scene can have a rescue and escape. for example, a scene can have a rescue and escape. for example, a scene can have a rescue and escape. for example, a scene can have a rescue and escape. for example, a scene can have a rescue and escape."
+37545,fight
+37650,no action found
+37683,no action found
+37740,action    rescue    escape    escape    escape    escape    escape    escape    escape    escape    escape    escape    escape    escape    escape    escape    escape    escape    escape    escape    escape    escape    escape    escape    escape    escape    escape    escape    escape    escape    escape    escape    escape    escape    escape    escape    escape    escape    escape    escape    escape    escape    escape    escape    escape    escape    escape    escape    escape    escape    escape    escape    escape    escape    escape    escape    escape    escape    escape    escape    escape    escape    escape    escape    escape    escape    escape    escape    escape    escape    escape    escape    escape    escape    escape    escape    escape    escape    escape    escape    escape    escape    escape    escape    escape    escape    escape    escape    escape    escape    escape    escape    escape    escape    escape    escape    escape    escape    escape    escape    escape    escape    escape    escape    escape    escape    escape    escape    escape    escape    escape    escape    escape    escape    escape    escape    escape    escape    escape    escape    escape    escape    escape    escape    escape    escape    escape    escape
+37750,fight
+37767,no action found 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 70 71 72 73 74 75 76 77 78 79 80 81 82 83 84 85 86 87 88 89 90 91 92 93 94 95 96 97 98 99 100 101 102 103 104 105 106 107 108 109 110 111 112 113 114 115 116 117 118 119 120 121 122 123 124 125 126 127 128 129 130 131 132 133 134 135 136 137 138 139 140 141 142 143 144 145 146 147 148 149 150 151 152 153 154 155 156
+37787,no action found
+37824,no action found
+37874,no action found
+37883,no action found
+37892,no action found
+37934,no action found
+37960,capture
+38139,no action found
+38214,no action found
+38322,no action found 3 4 5 6 7 8 9 10 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 67 70 72 73 74 76 78 80 82 83 84 85 86 87 89 90 91 92 93 94 95 96 97 98 100 101 102 103 104 105 106 107 108 109 110 111 112 113 114 115 116 117 118 119 120 121 122 123 124 125 126 127 128 129 130 131 132 133 134 135 136 137 138 139 140 141 142 143 144 145 146 147 148 149 150 151 152 153 154 155 156 157 158 159 160 161 162 163 1
+38357,rescue
+38406,This can be Fight and Escape
+38703,no action found
+39009,The video can have Fight and Escape
+39199,the video can have 2 or 3 or 4 or 5 or 6 or 7 or 8. for example.
+39675,no action found
+39724,no action found
+39780,no action found
+39812,no action found
+39835,no action found
+39993,no action found
+40090,no action found
+40139,escape
+40160,no action found 2 2 3 4 5 6 7 8 9 10 1 2 3 4 5 6 7 8 9 10 2 3 4 5 6 7 8 9 10 2 3 4 5 6 7 8 9 10 2 3 4 5 6 7 8 9 10 2 3 4 5 6 7 8 9 10 2 3 4 5 6 7 8 9 10 2 3 4 5 6 7 8 9 10 2 3 4 5 6 7 8 9 10 2 3 4 5 6 7 8 9 10 2 3 4 5 6 7 8 9 10 2 3 4 5 6 7 8 9 10 2 3 4 5 6 7 8 9 10 2 3 4 5 6 7 8 9 10 2 3 4 5 6 7 8 9 10 2 3 4 5 6 7 8 9 10 2 3 4 5 6 7 8 9 10 2 3 4 5 6 7 8 9 10 2 3 4 5 6 7 8 9 10 2 3 4 5 6 7 8 9 10 2 3 4 5 6 7 8 9 10 2 3 4 5 6 7 8 9 10 2 3 4 5 6 7 8 9 10 2 3 4 5 6 7 8 9 10 2 3 4 5 6 7 8 9 10 2 3 4 5 6 7 8 9 10 2 3 4 5 6
+40202,no action found
+40228,no action found 20 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+40257,no   action   none   of   the   100   scene   i   can   find   a   rescue   and   escape   scene   i   can   find   a   rescue   and   escape   scene   i   can   find   a   escape   scene   i   can   find   a   rescue   and   escape   scene   i   can   find   a   escape   scene   i   can   find   a   rescue   and   escape   scene   i   can   find   a   escape   scene   i   can   find   a   rescue   and   escape   scene   i   can   find   a   escape   scene   i   can   find   a   rescue   and   escape   scene   i   can   find   a   escape   scene   i   can   find   a   rescue   and   escape   scene   i   can   find   a   escape   scene   i   can   find   a   rescue   and   escape   scene   i   can   find   a   escape   scene   i   can   find   a   rescue   and   escape   scene   i   can   find   a   escape   scene   i   can   find   a   rescue   and   escape   scene   i   can   find   a   escape   scene   i   can   find   a   rescue   and   escape   scene   i   can   find   a   escape   scene   i   can   find   a   rescue   and   escape   scene   i   can   find   a   escape   scene   i   can   find   a   rescue   and   escape   scene   i   can   find   a   escape   scene   i   can   find   a   rescue   and   escape   scene   i   can   find   a   escape   scene   i   can   find   a   rescue   and   escape   scene   i   can   find   a   escape   scene   i   can   find   a   rescue   and   escape   scene   i   can   find   a   escape   scene   i   can   find   a   rescue   and   escape   scene   i   can   find   a   escape   scene   i   can   find   a   rescue   and   escape   scene   i   can   find   a   escape   scene   i
+40270,no action found
+40285,no action found
+40312,no action found
+40356,no action found
+40767,no action found 1 2 3 4 5 6 7 8 9 10 1 2 3 4 5 6 7 8 9 10 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9
+40827,no action found 20    no action found 30    no action found 40    no action found 5  no action found 6  no action found 7  no action found 8  no action found 9  no action found 0  no action found 1  no action found 2  no action found 3  no action found 4  no action found 5  no action found 6  no action found 7  no action found 8  no action found 9  no action found 0  no action found 1  no action found 2  no action found 3  no action found 4  no action found 5  no action found 6  no action found 7  no action found 8  no action found 9  no action found 0  no action found 1  no action found 2  no action found 3  no action found 4  no action found 5  no action found 6  no action found 7  no action found 8  no action found 9  no action found 0  no action found 1  no action found 2  no action found 3  no action found 4  no action found 5  no action found 6  no action found 7  no action found 8  no action found 9  no action found 0  no action found 1  no action found 2  no action found 3  no action found 4  no action found 5  no action found 6  no action found 7  no action found 8  no action found 9  no action found 0  no action found 1  no action found 2  no action found 3  no action found 4  no action found 5  no action found 6  no action found 7  no action found 8  no action found 9  no action found 0  no action found 1  no action found 2  no action found 3  no action found 4  no action found 5  no action found 6  no action found 7  no action found 8  no action found 9  no action found 0  no action found 1  no action found 2  no action found 3  no action found 4  no action found 5  no action found 6
+40856,no action found
+40901,no action found
+40937,no action found 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+40964,No action found
+40996,no action found 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+41205,no action found
+41335,no action found
+41398,1
+41546,no action found
+41565,no action found 1 2 3 4 5 6 7 8 9 10 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 30 31 32 33 34 35 36 37 40 41 42 43 44 45 46 47 50 51 52 53 54 55 56 60 62 64 72 80 81 83 84 85 92 93 96 100 101 102 103 104 105 106 107 112 113 114 115 116 117 122 123 124 125 126 127 132 133 134 135 136 137 142 143 144 145 146 147 152 153 154 156 157 162 163 164 165 166 167 172 173 174 175 176 177 182 183 184 186 187 192 193 194 195 196 197 198 202 203 204 206 207 210 212 213 214 216 218 221 222 223 224 226 227 230 232 233 234 236
+41693,escape
+41746,no action found
+41838,no action found
+41845,no action found
+41850,no action - for a dramatic scene..
+42020,no action found
+42039,no action found
+42075,no action found
+42098,no action found 20    no action found 30    no action found 40    no action found 50    no action found 60    no action found 70    no action found 80    no action found 90    no action found 100    no action found 120    no action found 130    no action found 140    no action found 150    no action found 160    no action found 170    no action found 180    no action found 190    no action found 200    no action found 210    no action found 220    no action found 230    no action found 240    no action found 250    no action found 260    no action found 270    no action found 280    no action found 290    no action found 300    no action found 310    no action found 320    no action found 330    no action found 340    no action found 350    no action found 360    no action found 370    no action found 380    no action found 400    no action found 410    no action found 420    no action found 430    no action found 440    no action found 450    no action found 460    no action found 470    no action found 480    no action found 490    no action found 500    no action found 510    no action found 520    no action found 530    no action found 540    no action found 550    no action found 560    no action found 570    no action found 580    no action found 600    no action found 610    no action found 620    no action found 630    no action found 640    no action found 650    no action found 660    no action found 720    no action found 730    no action found 740
+42143,no action found 2 2 3 4 5 6 7 8 9 10 1 2 3 4 5 6 7 8 9 10 2 3 4 5 6 7 8 9 12 1 4 2 3 6 7 8 9 12 2 3 4 5 6 7 8 9 12 2 3 4 5 6 7 8 9 12 2 3 4 5 6 7 8 9 12 2 3 4 5 6 7 8 9 12 2 3 4 5 6 7 8 9 12 2 3 4 5 6 7 8 9 12 2 3 4 5 6 7 8 9 12 2 3 4 5 6 7 8 9 12 2 3 4 5 6 7 8 9 12 2 3 4 5 6 7 8 9 12 2 3 4 5 6 7 8 9 12 2 3 4 5 6 7 8 9 12 2 3 4 5 6 7 8 9 12 2 3 4 5 6 7 8 9 12 2 3 4 5 6 7 8 9 12 2 3 4 5 6 7 8 9 12 2 3 4 5 6 7 8 9 12 2 3 4 5 6 7 8 9 12 2 3 4 5 6 7 8 9 12 2 3 4 5 6 7 8 9 12 2 3 4 5 6 7 8 9 12 2 3 4 5 6 7 8 9 12 2 3 4 5 6
+42186,no action found
+42247,no action found 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+42318,no action found
+42326,the video can have 2 or 3 or 4 or 5 or 6 or 7 or 8 or 9 or 0 or 1 of the latter.
+42552,no action found
+42585,no action found
+42776,no action found
+42815,no action found
+42855,no action found 20    1   2   3   4   5   6   7   8   9   10   12   13   14   15   16   17   18   19   20   21   22   23   24   25   26   27   28   29   30   31   32   33   34   35   36   37   38   39   40   41   42   43   44   45   46   47   48   49   50   51   52   53   54   55   56   57   58   59   60   61   62   63   64   65   66   67   68   70   71   72   73   74   75   76   77   78   79   80   81   82   83   84   85   86   87   88   89   90   91   92   93   94   95   96   97   98   99   100   101   102   103   104   105   106   107   108   109   110   111   112   113   114   115   116   117   118   119   120   121   122   123   124
+42911,no action found
+42921,no action found 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+42942,no answer
+42969,no action found
+43039,no action found 20    no action found 30    no action found 40    no action found 50    no action found 60    no action found 70    no action found 80    no action found 90    no action found 100  no action found 120  no action found 130  no action found 140  no action found 150  no action found 160  no action found 170  no action found 180  no action found 190  no action found 200  no action found 210  no action found 220  no action found 230  no action found 240  no action found 250  no action found 260  no action found 270  no action found 280  no action found 290  no action found 300  no action found 310  no action found 320  no action found 330  no action found 340  no action found 350  no action found 360  no action found 370  no action found 380  no action found 400  no action found 410  no action found 420  no action found 430  no action found 440  no action found 450  no action found 460  no action found 470  no action found 480  no action found 500  no action found 510  no action found 520  no action found 530  no action found 540  no action found 550  no action found 560  no action found 570  no action found 580  no action found 600  no action found 610  no action found 620  no action found 630  no action found 640  no action found 650  no action found  660  no action found  700  no action found  710  no action found  720  no action found
+43076,no action found
+43157,no action found
+43231,no action found 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+43366,no action found
+43431,no action found
+43765,no action found
+44124,no action found 1 2 3 4 5 6 7 8 9 10 1 2 3 4 5 6 7 8 9 10 2 3 4 5 6 7 8 9 12 1 3 2 4 5 6 7 8 9 12 2 3 4 5 6 7 8 9 12 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8
+44169,no action found
+44702,no answer
+44859,no action found
+45100,"no action found  
+    1   rescue   2   escape   3   capture   4   heist   5   fight   6   pursuit   7   speed   8   none   of   the   above
+    2   rescue   2   escape   3   capture   4   heist   5   fight   6   pursuit   7   speed   8   none   of   the   above
+    3   rescue   2   escape   3   capture   4   heist   5   fight   6   pursuit   7   speed   8   none   of   the   above
+    4   escape   3   capture   4   heist   5   fight   6   pursuit   7   speed   8   none   of  the  action  can  you  see  the  room  and  the  people  who  can  escape  from  it  and  the  people  who  can  escape  from  it  and  the  people  who  can  escape  from  it  and  the  people  who  can  escape  from  it  and  the  people  who  can  escape  from  it  and  the  people  who  can  escape  from  it  and  the  people  who  can  escape  from  it  and  the  people  who  can  escape  from  it  and  the  people  who  can  escape  from  it  and  the  people  who  can  escape  from  it  and  the  people  who  can  escape  from  it  and  the  people  who  can  escape  from  it  and  the  people  who  can  escape  from  it  and  the  people  who  can  escape  from  it  and  the  people  who  can  escape  from  it  and  the  people  who  can  escape  from  it  and  the  people  who  can  escape  from  it  and  the  people  who  can  escape  from  it  and  the  people  who  can  escape  from  it  and"
+45261,no action
+46496,no action found
+46521,no action found
+46587,no action found
+46635,no action found
+47062,no action found
+48720,no action found
+48918,no action found
+49031,no action found
+49142,no action found
+49206,no action found
+49334,escape
+49784,rescue
+49836,no action found
+49927,no action found
+49978,no action found
+50041,no action found
+50150,no action found
+50208,no action found
+50244,no action found
+50284,no action found 20
+50305,no action found
+50325,no action found
+50706,no action found
+50737,no action found
+50805,1
+50855,no action found
+50903,no action found
+51644,no action found
+52114,no rescue found
+52260,classify the given video into the following actions:
+53332,no action found
+53608,no action found
+53664,no action found
+53702,no action found
+53800,no action
+54230,1
+54458,no action found
+54491,no action found
+54610,no action found
+54626,no action found
+54631,no action found
+54692,no action found
+54712,no action found
+54773, fight
+55019,no action found
+55249,classify the given video into the following actions
+56333,no action found 20    1    2   3   4   5   6   7   8  9  10  11  12  13  14  15  16  17  18  19  20  21  22  23  24  25  26  27  28  29  30  31  32  33  34  35  36  37  38  39  40  41  42  43  44  45  46  47  48  49  50  51  52  53  54  55  56  57  58  59  60  61  62  63  64  65  66  67  68  70  71  72  73  74  75  76  77  78  80  81  82  83  84  85  86  87  88  90  91  92  93  94  95  96  97  98  100  101  102  103  104  105  106  107  108  109  110  111  112  113  114  115  116  117  118  119  120  121  122  123  124  125  126
+56479,no action found 10 2 3 4 5 6 7 8 9 10 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1
+56817,"1
+rescue"
+56888,no action found 1 2 3 4 5 6 7 8 9 10 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1
+57459,no action found
+58046,no action found
+58132,no action found
+58194,no action found
+58598,no action found
+59127,no action found
+59206,no action found
+59240,no action found
+59297,no action found
+59380,no action found
+59417,no action found
+59451,no action found 2 2 3 4 5 6 7 8 9 10 1 2 3 4 5 6 7 8 9 10 1 2 3 4 5 6 7 8 9 10 1 2 3 4 5 6 7 8 9 10 1 2 3 4 5 6 7 8 9 10 1 2 3 4 5 6 7 8 9 10 1 2 3 4 5 6 7 8 9 10 1 2 3 4 5 6 7 8 9 10 1 2 3 4 5 6 7 8 9 10 1 2 4 5 6 7 8 9 10 1 2 3 4 5 6 7 8 9 10 1 2 4 5 6 7 8 9 10 1 2 3 4 5 6 7 8 9 10 1 2 4 5 6 7 8 9 10 1 2 3 4 5 6 7 8 9 10 1 2 4 5 6 7 8 9 10 1 2 3 4 5 6 7 8 9 10 1 2 4 5 6 7 8 9 10 1 2 3 4 5 6 7 8 9 10 1 2 4 5 6 7 8 9 10 1 2 3 4 5 6 7 8 9 10 1 2 4 5 6 7 8 9 10 1 2 3 4 5 6 7 8 9 10 1 2 4 5 6 7 8 9 10 1 2 3 4 5 6 7 8 9 10
+59647,no action found
+60446,no action found
+60773,no action found 2 2 3 4 5 6 7 8 9 10 1 2 3 4 5 6 7 8 9 10 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8
+60790,1
+60961,no action found
+61046,no action found
+61099,no action found
+61393,no action found
+61419,no action found
+61469,capture 
+61514,no action found
+61682,"the video contains the following categories: rescue, escape; a scene with the character in a purple suit and a mask, which can be categorized as a rescue; a scene with a character in a purple suit and a mask, which can be categorized as a rescue; a scene with a character in a purple suit and a mask, which can be categorized as a rescue; a scene with a character in a purple suit and a mask, which can be categorized as a rescue; a scene with a character in a purple suit and a mask, which can be categorized as a rescue; a scene with a character in a purple suit and a mask, which can be categorized as a rescue; a scene with a character in a purple suit and a mask, which can be categorized as a rescue; a scene with a character in a purple suit and a mask, which can be categorized as a rescue; a scene with a character in a purple suit and a mask, which can be categorized as a rescue; a scene with a character in a purple suit and a mask, which can be categorized as a rescue; a scene with a character in a purple suit and a mask, which can be categorized as a rescue; a scene with a character in a purple suit and a mask, which can be categorized as a rescue; a scene with a character in a purple suit and a mask, which can be categorized as a rescue; a scene with a character in a purple suit and a mask, which can be categorized as a rescue; a scene with a character in a purple suit and a mask, which can be categorized as a rescue; a scene with a character in a purple suit and a mask, which can be categorized as a rescue; a scene with a character in a purple suit and a mask, which can be categorized as a rescue; a scene with a character in a purple suit and a mask, which can be categorized as a rescue; a scene with a character in a purple suit and a mask, which can be categorized as a rescue; a scene with a character in a purple suit and a mask, which can be categorized as a rescue; a scene with a character in a purple suit and a mask, which can be categorized as a rescue; a scene with a character in a purple suit and a mask, which can be categorized as a rescue; a scene with a character in a purple suit and a mask, which can be categorized as a rescue; a scene with a character in a purple suit and a mask, which can be categorized as"
+62284,no action found
+62413,no action found
+62516,no action found
+63596,no action
+64892,no action found
+65099,no action found
+65138,no action found
+65224,no action found
+65263,no action found
+65305,no action found
+65623,no action found
+65928,no action found
+65990,no action found
+66103,no action found
+66165,no action found
+66821,no action found
+66882,no action found
+67098,no action found
+67573,no action found
+67804,no action found 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 70 71 72 73 74 75 76 77 78 79 80 81 82 83 84 85 86 87 88 90 91 92 93 94 95 96 97 98 100 101 102 103 104 105 106 107 108 109 110 111 112 113 114 115 116 117 118 119 120 121 122 123 124 125 126 127 128 129 130 131 132 133 134 135 136 137 138 139 140 141 142 143 144 145 146 147 148 149 150 151 152 153 154 155 156 157 158
+67995,no action found
+68275,no action found
+69022,no action found
+69215,no action found
+69838,no action found
+70024,no action found
+70105,no action found
+70171,no action found
+70240,no action found
+70577,no action found
+70630,rescue
+70764,no action found
+70860,no action found
+70894,no action found
+70938,no action found
+70971,fight
+71051,no action found
+71086,no action found
+71261,rescue
+71272,no action found
+71293,fight
+71341,no action found
+71353,fight
+71382,no action found
+71404,no action found
+71441,no action found
+71454,fight
+71473,no action found
+71501,no action found
+71521,no action found
+71569,no action found
+71648,no action found
+71811,no action found
+72073,no action found
+72228,no action found
+72279,no action found
+72280,no action found
+72389,no action found
+72395,no action found
+72516,no action found
+72520,no action found
+72539,no action found
+73147,no action
+73413,no action found
+73717,man in suit with tie and suit with green shirt and green vest.
+74009,no action found
+75073,no action found
+75176,no action found 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 50 51 52 53 54 55 56 57 60 61 62 63 64 65 72 73 74 75 82 93 10 2 3 4 5 6 7 8 9 12 2 4 5 6 7 8 9 12 3 4 5 6 7 8 9 12 2 4 5 6 7 8 9 12 3 4 5 6 7 8 9 12 2 4 5 6 7 8 9 12 3 4 5 6 7 8 9 12 2 4 5 6 7 8 9 12 3 4 5 6 7 8 9 12 2 4 5 6 7 8 9 12 3 4 5 6 7 8 9 12 2 4 5 6 7 8 9 12 3 4 5 6 7 8 9 12 2 4 5 6 7 8 9 12 3 4 5 6 7 8 9 12 2 4 5 6 7 8 9 12 3 4 5 6 7 8 9 12 2 4 5 6 7 8 9 12 2 4
+75573,no action found
+75731,no action found
+75880,no action found 10 2 3 4 5 6 7 8 9 10 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1
+76255,no action found
+76581,no action found
+76713,no action found
+76787,20
+76840,no action found
+77710,no action found
+77770,no action found
+78120,no action found 2 0 1 2 3 4 5 6 7 8 9 10 1 2 3 4 5 6 7 8 9 10 1 2 3 4 5 6 7 8 9 10 1 2 3 4 5 6 7 8 9 10 1 2 3 4 5 6 7 8 9 10 1 2 3 4 5 6 7 8 9 10 1 2 3 4 5 6 7 8 9 10 1 2 3 4 5 6 7 8 9 10 1 2 3 4 5 6 7 8 9 10 1 2 3 4 5 6 7 8 9 10 1 2 3 4 5 6 7 8 9 10 1 2 3 4 5 6 7 8 9 10 1 2 3 4 5 6 7 8 9 10 1 2 3 4 5 6 7 8 9 10 1 2 3 4 5 6 7 8 9 10 1 2 3 4 5 6 7 8 9 10 1 2 3 4 5 6 7 8 9 10 1 2 3 4 5 6 7 8 9 10 1 2 3 4 5 6 7 8 9 10 1 2 3 4 5 6 7 8 9 10 1 2 3 4 5 6 7 8 9 10 1 2 3 4 5 6 7 8 9 10 1 2 3 4 5 6 7 8 9 10 1 2 3 4 5 6 7 8 9 10
+78430,no action found
+78617,no action found
+78793,no action found
+79160,no action found
+79214,no action found
+80023,no action found
+80048,no action found
+80195,no action found
+80218,no action found
+80256,no action found
+80416,no action found
+80489,no action found
+80553,no action found
+80634,no action found
+80805,no action found
+80856,no action found
+80983,no action found
+81072,no action found
+81106,no action found
+81290,no action found  2  3  4  5  6  7  8  9  10  11  12  13  14  15  16  17  18  19  2  3  4  5  6  7  8  9  10  12  1  2  3  4  5  6  7  8  9  1  2  3  4  5  6  7  8  9  10  1  2  3  4  5  6  7  8  9  10  1  2  3  4  5  6  7  8  9  10  1  2  3  4  5  6  7  8  9  10  1  2  3  4  5  6  7  8  9  10  1  2  3  4  5  6  7  8  9  10  1  2  3  4  5  6  7  8  9  10  1  2  3  4  5  6  7  8  9  10  1  2  3  4  5  6  7  8  9  10  1  2  3  4  5  6  7  8  9  10  1  2  3  4  5  6  7  8  9  10  1  2  3  4  5  6  7  8  9  10  1  2  3  4
+81320,no action found
+81453,no action found 2 2 3 4 5 6 7 8 9 10 1 2 3 4 5 6 7 8 9 10 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9
+81528,no action found
+81627,no action found
+81745,"2
+escape"
+81817,no action found
+82083,no action found
+82412,no action found
+82447,no action found
+82701,no action found
+82904,no action found
+83280,no action found
+83295,no action found
+83408,no action found
+83529,no action found 1  the scene is a dark room with a man in a black suit.  the scene is a dark room with a man in a black suit.  the scene is a dark room with a man in a black suit.  the scene is a dark room with a man in a black suit.  the scene is a dark room with a man in a black suit.  the scene is a dark room with a man in a black suit.  the scene is a dark room with a man in a black suit.  the scene is a dark room with a man in a black suit.  the scene is a dark room with a man in a black suit.  the scene is a dark room with a man in a black suit.  the scene is a dark room with a man in a black suit.  the scene is a dark room with a man in a black suit.  the scene is a dark room with a man in a black suit.  the scene is a dark room with a man in a black suit.  the scene is a dark room with a man in a black suit.  the scene is a dark room with a man in a black suit.  the scene is a dark room with a man in a black suit.  the scene is a dark room with a man in a black suit.  the scene is a dark room with a man in a black suit.  the scene is a dark room with a man in a black suit.  the scene is a dark room with a man in a black suit.  the scene is a dark room with a man in a black suit.  the scene is a dark room with a man in a black suit.  the scene is a dark room with a man in a black suit.  the scene is a dark room with a man in a black suit.  the scene is a dark room with a man in a black suit.  the scene is a dark room with a man in a black suit.  the scene is a dark room with a man in a black suit.  the scene is a dark room with a man in a black suit.  the scene is a dark room with a man in a black suit.  the scene is a dark room with a man in a black suit.  the scene is a dark room with a man in a black suit.  the scene is a dark room with a man in a black suit.  the scene is a dark room with a man in a
+83999,no action found
+84261,escape
+84451,no action found
+84674,"the video can have 2 or 4 scenes. for example, a scene can have rescue and escape. 1 can have 2 scenes. for example, a scene can have rescue and escape. 2 can have 3 scenes. for example, a scene can have rescue and escape. 3 can have 4 scenes. for example, a scene can have rescue and escape. 4 can have 5 scenes. for example, a scene can have rescue and escape. 5 can have 6 scenes. for example, a scene can have rescue and escape. 6 can have 7 scenes. for example, a scene can have rescue and escape. 7 can have 8 scenes. for example, a scene can have rescue and escape. 9 can have 10 scenes. for example, a scene can have rescue and escape. 11 can have 12 scenes. for example, a scene can have rescue and escape. 13 can have 14 scenes. for example, a scene can have rescue and escape. 15 can have 16 scenes. for example, a scene can have rescue and escape. 17 can have 18 scenes. for example, a scene can have rescue and escape. 19 can have 20 scenes. for example, a scene can have rescue and escape. 21 can have 22 scenes. for example, a scene can have rescue and escape. 23 can have 24 scenes. for example, a scene can have rescue and escape. 25 can have 26 scenes. for example, a scene can have rescue and escape. 27 can have 28 scenes. for example, a scene can have rescue and escape. 29 can have 30 scenes. for example, a scene can have rescue and escape. 31 can have 32 scenes. for example, a scene can have rescue and escape. 33 can have 34 scenes. for example, a scene can have rescue and escape. 35 can have 36 scenes. for example, a scene can have rescue and escape. 37 can have 40 scenes. for example, a scene can have rescue and escape. 41 can have 42 scenes. for example, a scene can have rescue and escape. 43 can have 44 scenes. for example, a scene can have rescue and escape."
+85143,no action found
+85630,no action
+85677,no action found
+86798,no action found
+87411,no action found
+87460,no action found
+87515,no action found
+87739,no action found
+87783,no action found
+87879,rescue
+88083,no action found
+88242,no action found
+88355,no action found
+88363,no action found
+88451,capture
+88737,capture
+89106,capture
+89333,no action found
+89368,no action found
+89730,"the video contains the following categories: rescue, escape, capture, and 100s of  other scenes. for example, a scene can have rescue and escape. the video also has 100s of other scenes. for example, a scene can have rescue and escape. the video also has 100s of other scenes. for example, a scene can have rescue and escape. the video also has 100s of other scenes. for example, a scene can have rescue and escape. the video also has 100s of other scenes. for example, a scene can have rescue and escape. the video also has 100s of other scenes. for example, a scene can have rescue and escape. the video also has 100s of other scenes. for example, a scene can have rescue and escape. the video also has 100s of other scenes. for example, a scene can have rescue and escape. the video also has 100s of other scenes. for example, a scene can have rescue and escape. the video also has 100s of other scenes. for example, a scene can have rescue and escape. the video also has 100s of other scenes. for example, a scene can have rescue and escape. the video also has 100s of other scenes. for example, a scene can have rescue and escape. the video also has 100s of other scenes. for example, a scene can have rescue and escape. the video also has 100s of other scenes. for example, a scene can have rescue and escape. the video also has 100s of other scenes. for example, a scene can have rescue and escape. the video also has 100s of other scenes. for example, a scene can have rescue and escape. the video also has 100s of other scenes. for example, a scene can have rescue and escape. the video also has 100s of other scenes. for example, a scene can have rescue and escape. the video also has 100s of other scenes. for example, a scene can have rescue and escape. the video also has 100s of other scenes. for example, a scene can have rescue and escape. the video also has 100s of other scenes. for example, a scene can have rescue"
+89859,no action found
+89983,no action found
+90107,no action found
+90470,no action found
+90490,no action found
+90528,no action found
+90550,no action found
+91094,no action found
+91460,no action found 20 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+91531,no action found
+91712,no action found
+91755,no action found
+91832,no action found
+91895,no action found
+91998,no action found
+92085,no action found  1  2  3  4  5  6  7  8  9  10  1  2  3  4  5  6  7  8  9  10  1  2  3  4  5  6  7  8  9  10  1  2  3  4  5  6  7  8  9  10  1  2  3  4  5  6  7  8  9  10  1  2  3  4  5  6  7  8  9  10  1  2  3  4  5  6  7  8  9  10  1  2  3  4  5  6  7  8  9  10  1  2  3  4  5  6  7  8  9  10  1  2  3  4  5  6  7  8  9  10  1  2  3  4  5  6  7  8  9  10  1  2  3  4  5  6  7  8  9  10  1  2  3  4  5  6  7  8  9  10  1  2  3  4  5  6  7  8  9  10  1  2  3  4  5  6  7  8  9  10  1  2  3  4  5  6  7  8  9  10  1  2  3  4
+92151,no action found
+92223,no action found
+92286,no action found
+92359,no action found
+92517,no action found 2 2 3 4 5 6 7 8 9 10 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1
+92553,no action found
+92823,no action found
+92869,no action found
+92981,no action found 2 2 3 4 5 6 7 8 9 10 1 2 3 4 5 6 7 8 9 10 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8
+93061,no action found
+93322,"no action found 20
+    the video can have rescue and escape.
+    the video can have rescue and escape.
+    the video can have rescue and escape.
+    the video can have rescue and escape.
+    the video can have rescue and escape.
+    the video can have rescue and escape.
+    the video can have rescue and escape.
+    the video can have rescue and escape.
+    the video can have rescue and escape.
+    the video can have rescue and escape.
+    the video can have rescue and escape.
+    the video can have rescue and escape.
+    the video can have rescue and escape.
+    the video can have rescue and escape.
+    the video can have rescue and escape.
+    the video can have rescue and escape.
+    the video can have rescue and escape.
+    the video can have rescue and escape.
+    the video can have rescue and escape.
+    the video can have rescue and escape.
+    the video can have rescue and escape.
+    the video can have rescue and escape.
+    the video can have rescue and escape.
+    the video can have rescue and escape.
+    the video can have rescue and escape.
+    the video can have rescue and escape.
+    the video can have rescue and escape.
+    the video can have rescue and escape.
+    the video can have rescue and escape.
+    the video can have rescue and escape.
+    the video can have rescue and escape.
+    the video can have rescue and escape.
+    the video can have rescue and escape.
+    the video can have rescue and escape.
+    the video can have rescue and escape.
+    the video can have rescue and escape.
+    the video can have rescue and escape.
+    the video can have rescue and escape.
+    the video can have rescue and escape.
+    the video can have rescue and escape.
+    the video can have rescue and escape.
+    the video can have rescue and escape.
+    the video can have rescue and escape.
+    the video can have rescue and escape.
+    the video can have rescue and escape.
+    the video can have rescue and escape.
+    the video can have rescue and escape.
+    the video can have rescue and escape.
+    the video can have rescue and escape.
+    the video can have rescue and escape.
+    the video can have rescue and escape.
+    the video can have rescue and escape.
+    the video can have rescue and escape.
+    the video can have rescue and escape.
+    the video can have rescue and escape.
+    the video can have rescue and escape."
+93390,no action found
+93482,"no action found  
+    the video can have  rescue  and  escape  as well  as  no  action found .  for  the  scene  can  have  rescue  and  escape  as  well  as  no  action  found .  for  the  scene  can  have  rescue  and  escape  as  well  as  no  action  found .  for  the  scene  can  have  rescue  and  escape  as  well  as  no  action  found .  for  the  scene  can  have  rescue  and  escape  as  well  as  no  action  found .  for  the  scene  can  have  rescue  and  escape  as  well  as  no  action  found .  for  the  scene  can  have  rescue  and  escape  as  well  as  no  action  found .  for  the  scene  can  have  rescue  and  escape  as  well  1  action  found .  for  the  scene  can  have  rescue  and  escape  as  1  action  found .  for  the  scene  can  have  rescue  and  escape  as  1  action  found .  for  the  scene  can  have  rescue  and  escape  as  1  action  found .  for  the  scene  can  have  rescue  and  escape  as  1  action  found .  for  the  scene  can  have  rescue  and  escape  as  1  action  found .  for  the  scene  can  have  rescue  and  escape  as  1  action  found .  for  the  scene  can  have  rescue  and  escape  as  1  action  found .  for  the  scene  can  have  rescue  and  escape  as  1  action  found .  for  the  scene  can  have  rescue  and  escape  as  1  action  found .  for  the  scene  can  have  rescue  and  escape  as  1  action  found .  for  the  scene  can  have  rescue  and  escape  as  1  action"
+93574,no action found
+93643,no action found
+93692,no action found
+93846,"the video can have rescue and escape.
+     the scene can have rescue and escape.
+     the scene can have rescue and escape.
+     the scene can have rescue and escape.
+     the scene can have rescue and escape.
+     the scene can have rescue and escape.
+     the scene can have rescue and escape.
+     the scene can have rescue and escape.
+     the scene can have rescue and escape.
+     the scene can have rescue and escape.
+     the scene can have rescue and escape.
+     the scene can have rescue and escape.
+     the scene can have rescue and escape.
+     the scene can have rescue and escape.
+     the scene can have rescue and escape.
+     the scene can have rescue and escape.
+     the scene can have rescue and escape.
+     the scene can have rescue and escape.
+     the scene can have rescue and escape.
+     the scene can have rescue and escape.
+     the scene can have rescue and escape.
+     the scene can have rescue and escape.
+     the scene can have rescue and escape.
+     the scene can have rescue and escape.
+     the scene can have rescue and escape.
+     the scene can have rescue and escape.
+     the scene can have rescue and escape.
+     the scene can have rescue and escape.
+     the scene can have rescue and escape.
+     the scene can have rescue and escape.
+     the scene can have rescue and escape.
+     the scene can have rescue and escape.
+     the scene can have rescue and escape.
+     the scene can have rescue and escape.
+     the scene can have rescue and escape.
+     the scene can have rescue and escape.
+     the scene can have rescue and escape.
+     the scene can have rescue and escape.
+     the scene can have rescue and escape.
+     the scene can have rescue and escape.
+     the scene can have rescue and escape.
+     the scene can have rescue and escape.
+     the scene can have rescue and escape.
+     the scene can have rescue and escape.
+     the scene can have rescue and escape.
+     the scene can have rescue and escape.
+     the scene can have rescue and escape.
+     the scene can have rescue and escape.
+     the scene can have rescue and escape.
+     the scene can have rescue and escape.
+     the scene can have rescue and escape.
+     the scene can have rescue and escape.
+     the scene can have rescue and escape.
+     the scene can have rescue and escape.
+     the scene can have rescue and escape.
+     the scene can have rescue and escape.
+     the scene can have rescue and escape."
+93917,rescue
+94298,no action found
+94335,no action found
+94401,no action found
+94429,no action found
+94730,no action found 2 3 4 5 6 7 8 9 10 1 2 3 4 5 6 7 8 9 10 2 3 4 5 6 7 8 9 12 1 4 2 3 6 7 8 9 12 2 4 5 6 7 8 9 12 2 3 4 5 6 7 8 9 12 2 4 5 6 7 8 9 12 2 3 4 5 6 7 8 9 12 2 3 4 5 6 7 8 9 12 2 4 5 6 7 8 9 12 2 3 4 5 6 7 8 9 12 2 4 5 6 7 8 9 12 2 3 4 5 6 7 8 9 12 2 4 5 6 7 8 9 12 2 3 4 5 6 7 8 9 12 2 4 5 6 7 8 9 12 2 3 4 5 6 7 8 9 12 2 4 5 6 7 8 9 12 2 3 4 5 6 7 8 9 12 2 4 5 6 7 8 9 12 2 3 4 5 6 7 8 9 12 2 4 5 6 7 8 9 12 2 3 4 5 6 7 8 9 12 2 4 5 6 7 8 9 12 2 3 4 5 6 7 8 9 12 2 4 5 6 7 8 9 12 2 3 4 5 6 7 8 9 12 2 4 5 6 7 8 9 1
+94833,no action found
+94863,no action found
+94957,no action found
+95117,no action found 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+95325,no action found
+95362,no action found 20 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+95660,no action found
+95730,no action found
+95779,"rescue
+    a scene can have escape.
+    a scene can have capture.
+    a scene can have rescue.
+    a scene can have escape.
+    a scene can have capture.
+    a scene can have rescue.
+    a scene can have escape.
+    a scene can have capture.
+    a scene can have rescue.
+    a scene can have escape.
+    a scene can have capture.
+    a scene can have rescue.
+    a scene can have escape.
+    a scene can have capture.
+    a scene can have rescue.
+    a scene can have escape.
+    a scene can have capture.
+    a scene can have rescue.
+    a scene can have escape.
+    a scene can have capture.
+    a scene can have rescue.
+    a scene can have escape.
+    a scene can have capture.
+    a scene can have rescue.
+    a scene can have escape.
+    a scene can have capture.
+    a scene can have rescue.
+    a scene can have escape.
+    a scene can have capture.
+    a scene can have rescue.
+    a scene can have escape.
+    a scene can have capture.
+    a scene can have rescue.
+    a scene can have escape.
+    a scene can have capture.
+    a scene can have rescue.
+    a scene can have escape.
+    a scene can have capture.
+    a scene can have rescue.
+    a scene can have escape.
+    a scene can have capture.
+    a scene can have rescue.
+    a scene can have escape.
+    a scene can have capture.
+    a scene can have rescue.
+    a scene can have escape.
+    a scene can have capture.
+    a scene can have rescue.
+    a scene can have escape.
+    a scene can have capture.
+    a scene can have rescue.
+    a scene can have escape.
+    a scene can have capture.
+    a scene can have rescue.
+    a scene can have escape.
+    a scene can have capture.
+    a scene can have rescue.
+    a scene can have escape.
+    a scene can have capture.
+    a scene can have rescue.
+    a scene can have escape.
+    a scene can have capture.
+    a scene can have rescue.
+    a scene can have escape.
+    a scene can have capture.
+    a scene can have rescue.
+    a scene can have escape.
+    a scene can have capture.
+    a scene can have rescue.
+    a scene can have escape.
+    a scene can have capture.
+    a scene can have rescue.
+    a scene can have escape"
+95836,"classify the given video into the following actions:
+    1. rescue
+    2. escape
+    3. capture
+    4. heist
+    5. fight
+    6. pursuit
+    7. none of the above - for scenes that do not fall into any of the aforementioned categories.
+    your reply can include multiple scenes if possible. for example, a scene can have rescue and escape.
+    1. rescue
+    2. escape
+    3. capture
+    4. heist
+    5. fight
+    6. pursuit
+    7. none of the above - for scenes that do not fall into any of the aforementioned categories.
+    your reply can include multiple scenes if possible. for example, a scene can have rescue and escape.
+    1. rescue
+    2. escape
+    3. capture
+    4. heist
+    5. fight
+    6. pursuit
+    7. none of the above - for scenes that do not fall into any of the aforementioned categories.
+    your reply can include multiple scenes if possible. for example, a scene can have rescue and escape.
+    1. rescue
+    2. escape
+    3. capture
+    4. heist
+    5. fight
+    6. pursuit
+    7. none of the above - for scenes that do not fall into any of the aforementioned categories.
+    your reply can include multiple scenes if possible. for example, a scene can have rescue and escape.
+    1. rescue
+    2. escape
+    3. capture
+    4. heist
+    5. fight
+    6. pursuit
+    7. none of the above - for scenes that do not fall into any of the aforementioned categories.
+    your reply can include multiple scenes if possible. for example, a scene can have rescue and escape.
+    1. rescue
+    2. escape
+    3. capture
+    4. heist
+    5. fight
+    6. pursuit
+    7. none of the above - for scenes that do not fall into any of the aforementioned categories.
+    your reply can include multiple scenes if possible. for example, a scene can have rescue and escape.
+    1. rescue
+    2. escape
+    3."
+95880,no action found
+96255,no action found
+96272,no action found
+96325,no action found 2 2 3 4 5 6 7 8 9 10 1 2 3 4 5 6 7 8 9 10 1 2 3 4 5 6 7 8 9 10 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7
+96351,no action found
+96366,no action found
+96381,no action found
+96424,no action found 3 4 5 6 7 8 9 10 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 60 61 62 63 64 65 67 70 71 72 73 74 75 76 77 78 80 81 82 83 84 85 86 87 90 91 92 93 94 95 96 97 98 100 101 102 103 104 105 106 107 108 109 110 111 112 113 114 115 116 117 118 119 120 121 122 123 124 125 126 127 128 129 130 131 132 133 134 135 136 137 138 139 140 141 142 143 144 145 146 147 148 149 150 151 152 153 154 155 156 157 158 159 160 161 162
+96474,no action found 2 2 3 4 5 6 7 8 9 10 1 2 3 4 5 6 7 8 9 10 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8
+96498,fight
+96535,no action found
+96542,rescue
+96554,"1       c     2     3     4     5     6     7     8   9   10   12   13   14   15   16   17   18   19   20   21   22   23   24   25   26   27   28   29   30   31   32   33   34   35   36   37   38   39   40   41   42   43   44   45   46   47   48   49   50   51   52   53   54   55   56   57   58   59   60   61   62   63   64   65   66   67   68   70   71   72   73   74   75   76   77   78   79   80   81   82   83   84   85   86   87   88   89   90   91   92   93   94   95   96   97   98   99   100.
+    2       c     2       3       4       5     6     7     8     9   10   11   12   13   14   15   16   17   18   19   20   21   22   23   24   25   26   27   28"
+96581,no action found
+96608,"the video can have rescue and escape.
+     the scene can have rescue and escape.
+     the scene can have rescue and escape.
+     the scene can have rescue and escape.
+     the scene can have rescue and escape.
+     the scene can have rescue and escape.
+     the scene can have rescue and escape.
+     the scene can have rescue and escape.
+     the scene can have rescue and escape.
+     the scene can have rescue and escape.
+     the scene can have rescue and escape.
+     the scene can have rescue and escape.
+     the scene can have rescue and escape.
+     the scene can have rescue and escape.
+     the scene can have rescue and escape.
+     the scene can have rescue and escape.
+     the scene can have rescue and escape.
+     the scene can have rescue and escape.
+     the scene can have rescue and escape.
+     the scene can have rescue and escape.
+     the scene can have rescue and escape.
+     the scene can have rescue and escape.
+     the scene can have rescue and escape.
+     the scene can have rescue and escape.
+     the scene can have rescue and escape.
+     the scene can have rescue and escape.
+     the scene can have rescue and escape.
+     the scene can have rescue and escape.
+     the scene can have rescue and escape.
+     the scene can have rescue and escape.
+     the scene can have rescue and escape.
+     the scene can have rescue and escape.
+     the scene can have rescue and escape.
+     the scene can have rescue and escape.
+     the scene can have rescue and escape.
+     the scene can have rescue and escape.
+     the scene can have rescue and escape.
+     the scene can have rescue and escape.
+     the scene can have rescue and escape.
+     the scene can have rescue and escape.
+     the scene can have rescue and escape.
+     the scene can have rescue and escape.
+     the scene can have rescue and escape.
+     the scene can have rescue and escape.
+     the scene can have rescue and escape.
+     the scene can have rescue and escape.
+     the scene can have rescue and escape.
+     the scene can have rescue and escape.
+     the scene can have rescue and escape.
+     the scene can have rescue and escape.
+     the scene can have rescue and escape.
+     the scene can have rescue and escape.
+     the scene can have rescue and escape.
+     the scene can have rescue and escape.
+     the scene can have rescue and escape.
+     the scene can have rescue and escape.
+     the scene can have rescue and escape."
+96699,no action found
+96783,no action found 1 2 3 4 5 6 7 8 9 10 1 2 3 4 5 6 7 8 9 10 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8
+96831,no action found
+96845,no action found
+96914,no action found
+96987,no action found
+97140,no action found
+97202,no action found
+97241,no action found
+97296,no action found
+97362,"the video can have rescue and escape.
+    a scene can have rescue and escape.
+    a scene can have rescue and escape.
+    a scene can have rescue and escape.
+    a scene can have rescue and escape.
+    a scene can have rescue and escape.
+    a scene can have rescue and escape.
+    a scene can have rescue and escape.
+    a scene can have rescue and escape.
+    a scene can have rescue and escape.
+    a scene can have rescue and escape.
+    a scene can have rescue and escape.
+    a scene can have rescue and escape.
+    a scene can have rescue and escape.
+    a scene can have rescue and escape.
+    a scene can have rescue and escape.
+    a scene can have rescue and escape.
+    a scene can have rescue and escape.
+    a scene can have rescue and escape.
+    a scene can have rescue and escape.
+    a scene can have rescue and escape.
+    a scene can have rescue and escape.
+    a scene can have rescue and escape.
+    a scene can have rescue and escape.
+    a scene can have rescue and escape.
+    a scene can have rescue and escape.
+    a scene can have rescue and escape.
+    a scene can have rescue and escape.
+    a scene can have rescue and escape.
+    a scene can have rescue and escape.
+    a scene can have rescue and escape.
+    a scene can have rescue and escape.
+    a scene can have rescue and escape.
+    a scene can have rescue and escape.
+    a scene can have rescue and escape.
+    a scene can have rescue and escape.
+    a scene can have rescue and escape.
+    a scene can have rescue and escape.
+    a scene can have rescue and escape.
+    a scene can have rescue and escape.
+    a scene can have rescue and escape.
+    a scene can have rescue and escape.
+    a scene can have rescue and escape.
+    a scene can have rescue and escape.
+    a scene can have rescue and escape.
+    a scene can have rescue and escape.
+    a scene can have rescue and escape.
+    a scene can have rescue and escape.
+    a scene can have rescue and escape.
+    a scene can have rescue and escape.
+    a scene can have rescue and escape.
+    a scene can have rescue and escape.
+    a scene can have rescue and escape.
+    a scene can have rescue and escape.
+    a scene can have rescue and escape.
+    a scene can have rescue and escape.
+    a scene can have rescue and escape."
+97425,no action found
+97598,no action
+97683,1
+97843,no action found
+97924,no action found
+98043,"the video can have rescue.
+    the video can have escape.
+    the video can have capture.
+    the video can have rescue.
+    the video can have escape.
+    the video can have capture.
+    the video can have rescue.
+    the video can have escape.
+    the video can have capture.
+    the video can have rescue.
+    the video can have escape.
+    the video can have capture.
+    the video can have rescue.
+    the video can have escape.
+    the video can have capture.
+    the video can have rescue.
+    the video can have escape.
+    the video can have capture.
+    the video can have rescue.
+    the video can have escape.
+    the video can have capture.
+    the video can have rescue.
+    the video can have escape.
+    the video can have capture.
+    the video can have rescue.
+    the video can have escape.
+    the video can have capture.
+    the video can have rescue.
+    the video can have escape.
+    the video can have capture.
+    the video can have rescue.
+    the video can have escape.
+    the video can have capture.
+    the video can have rescue.
+    the video can have escape.
+    the video can have capture.
+    the video can have rescue.
+    the video can have escape.
+    the video can have capture.
+    the video can have rescue.
+    the video can have escape.
+    the video can have capture.
+    the video can have rescue.
+    the video can have escape.
+    the video can have capture.
+    the video can have rescue.
+    the video can have escape.
+    the video can have capture.
+    the video can have rescue.
+    the video can have escape.
+    the video can have capture.
+    the video can have rescue.
+    the video can have escape.
+    the video can have capture.
+    the video can have rescue.
+    the video can have escape.
+    the video can have capture.
+    the video can have rescue.
+    the video can have escape.
+    the video can have capture.
+    the video can have rescue.
+    the video can have escape.
+    the video can have capture.
+    the video can have rescue.
+    the video can have escape.
+    the video can have capture.
+    the video can have rescue.
+    the video can have escape.
+    the video can have capture.
+    the video can have rescue.
+    the video can have escape.
+    the video can have capture.
+    the video can have rescue.
+    the"
+98179,the video can have pursuit and speed and fight
+98277,no action found
+98314,no action found
+98352,no action found
+98415,no action found
+98511,no action found
+98535,no action found
+98593,"rescue
+    a scene with a character in a room and a scene with a character in a room. a scene with a character in a room. a scene with a character in a room. a scene with a character in a room. a scene with a character in a room. a scene with a character in a room. a scene with a character in a room. a scene with a character in a room. a scene with a character in a room. a scene with a character in a room. a scene with a character in a room. a scene with a character in a room. a scene with a character in a room. a scene with a character in a room. a scene with a character in a room. a scene with a character in a room. a scene with a character in a room. a scene with a character in a room. a scene with a character in a room. a scene with a character in a room. a scene with a character in a room. a scene with a character in a room. a scene with a character in a room. a scene with a character in a room. a scene with a character in a room. a scene with a character in a room. a scene with a character in a room. a scene with a character in a room. a scene with a character in a room. a scene with a character in a room. a scene with a character in a room. a scene with a character in a room. a scene with a character in a room. a scene with a character in a room. a scene with a character in a room. a scene with a character in a room. a scene with a character in a room. a scene with a character in a room. a scene with a character in a room. a scene with a character in a room. a scene with a character in a room. a scene with a character in a room. a scene with a character in a room. a scene with a character in a room. a scene with a character in a room. a scene with a character in a room. a scene with a character in a room. a scene with a character in a room. a scene with a character in a room. a scene with a character in a room. a scene with a character in a room. a scene with a character in a room. a scene with a character in a room. a scene with a character in a room. a scene with a character in a room. a scene with a"
+98638,rescue
+98700,no action found
+98756,no action found
+98798,no action found
+98854,no action found
+98913,escape
+98967,no action found
+98993,no action found
+99016,no action found
+99025,rescue
+99040,no action found
+99047,"the video can have rescue and escape.
+     a scene can have rescue and escape.
+     a scene can have rescue and escape.
+     a scene can have rescue and escape.
+     a scene can have rescue and escape.
+     a scene can have rescue and escape.
+     a scene can have rescue and escape.
+     a scene can have rescue and escape.
+     a scene can have rescue and escape.
+     a scene can have rescue and escape.
+     a scene can have rescue and escape.
+     a scene can have rescue and escape.
+     a scene can have rescue and escape.
+     a scene can have rescue and escape.
+     a scene can have rescue and escape.
+     a scene can have rescue and escape.
+     a scene can have rescue and escape.
+     a scene can have rescue and escape.
+     a scene can have rescue and escape.
+     a scene can have rescue and escape.
+     a scene can have rescue and escape.
+     a scene can have rescue and escape.
+     a scene can have rescue and escape.
+     a scene can have rescue and escape.
+     a scene can have rescue and escape.
+     a scene can have rescue and escape.
+     a scene can have rescue and escape.
+     a scene can have rescue and escape.
+     a scene can have rescue and escape.
+     a scene can have rescue and escape.
+     a scene can have rescue and escape.
+     a scene can have rescue and escape.
+     a scene can have rescue and escape.
+     a scene can have rescue and escape.
+     a scene can have rescue and escape.
+     a scene can have rescue and escape.
+     a scene can have rescue and escape.
+     a scene can have rescue and escape.
+     a scene can have rescue and escape.
+     a scene can have rescue and escape.
+     a scene can have rescue and escape.
+     a scene can have rescue and escape.
+     a scene can have rescue and escape.
+     a scene can have rescue and escape.
+     a scene can have rescue and escape.
+     a scene can have rescue and escape.
+     a scene can have rescue and escape.
+     a scene can have rescue and escape.
+     a scene can have rescue and escape.
+     a scene can have rescue and escape.
+     a scene can have rescue and escape.
+     a scene can have rescue and escape.
+     a scene can have rescue and escape.
+     a scene can have rescue and escape.
+     a scene can have rescue and escape.
+     a scene can have rescue and escape.
+     a scene can have rescue and escape."
+99062,no action found
+99433,no action found 20 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+99480,no action found 20 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+99572,no action found
+99596,no action found
+99667,"rescue
+    a scene can have rescue and escape.
+    a scene can have rescue and escape.
+    a scene can have rescue and escape.
+    a scene can have rescue and escape.
+    a scene can have rescue and escape.
+    a scene can have rescue and escape.
+    a scene can have rescue and escape.
+    a scene can have rescue and escape.
+    a scene can have rescue and escape.
+    a scene can have rescue and escape.
+    a scene can have rescue and escape.
+    a scene can have rescue and escape.
+    a scene can have rescue and escape.
+    a scene can have rescue and escape.
+    a scene can have rescue and escape.
+    a scene can have rescue and escape.
+    a scene can have rescue and escape.
+    a scene can have rescue and escape.
+    a scene can have rescue and escape.
+    a scene can have rescue and escape.
+    a scene can have rescue and escape.
+    a scene can have rescue and escape.
+    a scene can have rescue and escape.
+    a scene can have rescue and escape.
+    a scene can have rescue and escape.
+    a scene can have rescue and escape.
+    a scene can have rescue and escape.
+    a scene can have rescue and escape.
+    a scene can have rescue and escape.
+    a scene can have rescue and escape.
+    a scene can have rescue and escape.
+    a scene can have rescue and escape.
+    a scene can have rescue and escape.
+    a scene can have rescue and escape.
+    a scene can have rescue and escape.
+    a scene can have rescue and escape.
+    a scene can have rescue and escape.
+    a scene can have rescue and escape.
+    a scene can have rescue and escape.
+    a scene can have rescue and escape.
+    a scene can have rescue and escape.
+    a scene can have rescue and escape.
+    a scene can have rescue and escape.
+    a scene can have rescue and escape.
+    a scene can have rescue and escape.
+    a scene can have rescue and escape.
+    a scene can have rescue and escape.
+    a scene can have rescue and escape.
+    a scene can have rescue and escape.
+    a scene can have rescue and escape.
+    a scene can have rescue and escape.
+    a scene can have rescue and escape.
+    a scene can have rescue and escape.
+    a scene can have rescue and escape.
+    a scene can have rescue and escape.
+    a scene can have rescue and escape.
+    a scene can have rescue"
+99688,no action found
+99737,"the video contains multiple categories. for example, a scene can have rescue and escape."
+99860,no action found
+100022,no action found
+100112,no action found 20    1   2   3   4   5   6   7   8   9   10   11   12   13   14   15   16   17   18   19   20   21   22   23   24   25   26   27   28   29   30   31   32   33   34   35   36   37   38   39   40   41   42   43   44   45   46   47   48   49   50   51   52   53   54   55   56   57   58   59   60   61   62   63   64   65   66   67   68   70   71   72   73   74   75   76   77   78   79   80   81   82   83   84   85   86   87   88   89   90   91   92   93   94   95   96   97   98   99   100   101   102   103   104   105   106   107   108   109   110   111   112   113   114   115   116   117   118   119   120   121   122   123   1
+100137,no action found
+100151,no action found 20    1   2   3   4   5   6   7   8  9   10  11   12   13   14   15   16   17   18   19   20   21   22   23   24   25   26   27   28   29   30   31   32   33   34   35   36   37   38   39   40   41   42   43   44   45   46   47   48   49   50   51   52   53   54   55   56   57   58   59   60   61   62   63   64   65   66   67   68   69   70   71   72   73   74   75   76   77   78   79   80   81   82   83   84   85   86   87   88   89   90   91   92   93   94   95   96   97   98   99   100   101   102   103   104   105   106   107   108   109   110   111   112   113   114   115   116   117   118   119   120   121   122   12
+100175,no action found
+100264,no action
+100299,no action found
+100364,no action found
+100390,no action found 20 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+100430,no action found
+100443,no action found
+100471,no action found
+100523,no action found
+100705,no action found
+100819,no action found
+100849,no action found
+101142,no action found
+101206,no action found
+101234,no action found 2 2 3 4 5 6 7 8 9 10 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1
+101308,no answer
+101407,no action found
+101500,no action found
+101537,no action found
+101576,no action found
+101610,no action found
+101650,none of the above
+101716,10
+101749,no action found
+101899,no action found
+101926,no action
+101959,no action found
+102006,no action found
+102008,no action found
+102009,no action found
+102016,no action found
+102034,no
+102042,no answer
+102067,"classify the given video into the following actions:
+    1. rescue
+    2. escape
+    3. capture
+    4. heist
+    5. fight
+    6. pursuit
+    7. speed
+    8. none of the above - for scenes that do not fall into any of the aforementioned categories."
+102232,no action found 3 2 4 5 6 7 8 9 10 11 12 2 3 4 5 6 7 8 9 10 12 2 3 4 5 6 7 8 9 10 12 2 3 4 5 6 7 8 9 10 12 2 3 4 5 6 7 8 9 10 12 2 3 4 5 6 7 8 9 10 12 2 3 4 5 6 7 8 9 10 12 2 3 4 5 6 7 8 9 10 12 2 3 4 5 6 7 8 9 10 12 2 3 4 5 6 7 8 9 10 12 2 3 4 5 6 7 8 9 10 12 2 3 4 5 6 7 8 9 10 12 2 3 4 5 6 7 8 9 10 12 2 3 4 5 6 7 8 9 10 12 2 3 4 5 6 7 8 9 10 12 2 3 4 5 6 7 8 9 10 12 2 3 4 5 6 7 8 9 10 12 2 3 4 5 6 7 8 9 10 12 2 3 4 5 6 7 8 9 10 12 2 3 4 5 6 7 8 9 10 12 2 3 4 5 6 7 8 9 10 12 2 3 4 5 6 7 8 9 10 12 2 3 4 5 6 7 8 9 10 12
+102246,no action found
+102363,no action found
+102409,no action found
+102529,no action found
+102581,the video have fight.
+102635,no action found
+102678,no action found
+102782,no action
+102801,no action found
+102875,no action found
+103009,no action found
+103049,no action found
+103119,no action found
+103180,no answer
+103256,0
+103277,no action found
+103290,no action found
+103352,7
+103495,no action found
+103766,no action found
+104134,7
+104319,escape
+104626,no action found
+104961,no action found
+105007,no classify
+105481,no action found
+105713,no action found
+105841,no action found
+105895,none of the above
+106014,no action found
+106176,"no action - for a scene that does not involve rescue and escape.
+     your rescue can have a scene that does not involve rescue and escape.
+     your rescue can have a scene that does not involve rescue and escape.
+     your rescue can have a scene that does not involve rescue and escape.
+     your rescue can have a scene that does not involve rescue and escape.
+     your rescue can have a scene that does not involve rescue and escape.
+     your rescue can have a scene that does not involve rescue and escape.
+     your rescue can have a scene that does not involve rescue and escape.
+     your rescue can have a scene that does not involve rescue and escape.
+     your rescue can have a scene that does not involve rescue and escape.
+     your rescue can have a scene that does not involve rescue and escape.
+     your rescue can have a scene that does not involve rescue and escape.
+     your rescue can have a scene that does not involve rescue and escape.
+     your rescue can have a scene that does not involve rescue and escape.
+     your rescue can have a scene that does not involve rescue and escape.
+     your rescue can have a scene that does not involve rescue and escape.
+     your rescue can have a scene that does not involve rescue and escape.
+     your rescue can have a scene that does not involve rescue and escape.
+     your rescue can have a scene that does not involve rescue and escape.
+     your rescue can have a scene that does not involve rescue and escape.
+     your rescue can have a scene that does not involve rescue and escape.
+     your rescue can have a scene that does not involve rescue and escape.
+     your rescue can have a scene that does not involve rescue and escape.
+     your rescue can have a scene that does not involve rescue and escape.
+     your rescue can have a scene that does not involve rescue and escape.
+     your rescue can have a scene that does not involve rescue and escape.
+     your rescue can have a scene that does not involve rescue and escape.
+     your rescue can have a scene that does not involve rescue and escape.
+     your rescue can have a scene that does not involve rescue and escape.
+     your rescue can have a scene that does not involve rescue and escape.
+     your rescue can have a scene that does not involve rescue and escape.
+     your rescue can have a scene that does not involve rescue and escape.
+     your rescue can have a scene that does not involve rescue and escape.
+     your rescue can have a scene that does not involve rescue and escape.
+     your rescue"
+106222,no action found
+106304,no action found
+106711,no action found 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+106766,no action found
+106854,no action found
+106916,no action found
+106969,no action found
+106999,1
+107076,1
+107756,no action found
+108427,no action found
+110009,no action found
+110266,rescue
+110366,no action found
+110520,no action    #2    rescue    #3    escape    #4    heist    #5    fight    #6    pursuit    #7    speed    #8    none of the above - for scenes that do not fall into any of the aforementioned categories.
+110600,no action found
+110709,no action found 20 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+110773,no action found
+110894,escape
+110938,no action found 
+111022,no action found 20    no action found 30    no action found 40    no action found 50    no action found 60    no action found  70    no action found  80    no action found  90    no action found  100  no action found  120  no action found  130  no action found  140  no action found  150  no action found  160  no action found  170  no action found  180  no action found  190  no action found  200  no action found  210  no action found  220  no action found  230  no action found  240  no action found  250  no action found  260  no action found  270  no action found  280  no action found  290  no action found  300  no action found  310  no action found  320  no action found  330  no action found  340  no action found  350  no action found  360  no action found  370  no action found  380  no action found  400  no action found  410  no action found  420  no action found  430  no action found  440  no action found  450  no action found  460  no action found  470  no action found  480  no action found  490  no action found  500  no action found  510  no action found  520  no action found  530  no action found  540  no action found  550  no action found  560  no action found  570  no action found  580  no action found  600  no action found  610  no action found  620  no action found
+111442,escape
+111524,fight
+111612,no action found
+111615,1
+111982,no action found
+112262,no action found
+112644,"no classify - for scenes that do not fall into any of the aforementioned categories.
+    your reply can include multiple categories if possible. for example, a scene can have rescue and escape."
+112940,no action found
+112977,no action found
+113135,no action found 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3
+114183,rescue
+114212,no action found
+114335,no action found
+114365,no action found
+114410,no action found
+114442,no action found
+114713,no action found
+114754,rescue
+114908,no action found
+115414,no action found
+115467,no action found
+115904,no action found
+115954,no action found
+116079,no action found
+116120,no action found
+116252,no action found
+116320,no action found
+116400,no action found
+116430,no action found 1 2 3 4 5 6 7 8 9 10 1 2 3 4 5 6 7 8 9 1 2 3 4 6 7 8 9 1 2 3 4 6 7 8 9 1 2 3 4 6 7 8 9 1 2 3 4 6 7 8 9 1 2 3 4 6 7 8 9 1 2 3 4 6 7 8 9 1 2 3 4 6 7 8 9 1 2 3 4 6 7 8 9 1 2 3 4 6 7 8 9 1 2 3 4 6 7 8 9 1 2 3 4 6 7 8 9 1 2 3 4 6 7 8 9 1 2 3 4 6 7 8 9 1 2 3 4 6 7 8 9 1 2 3 4 6 7 8 9 1 2 3 4 6 7 8 9 1 2 3 4 6 7 8 9 1 2 3 4 6 7 8 9 1 2 3 4 6 7 8 9 1 2 3 4 6 7 8 9 1 2 3 4 6 7 8 9 1 2 3 4 6 7 8 9 1 2 3 4 6 7 8 9 1 2 3 4 6 7 8 9 1 2 3 4 6 7 8 9 1 2 3 4 6 7 8 9 1 2 3 4 6 7 8 9 1 2 3 4 6 7 8 9 1 2 3 4 6 7 8 9 1 2 3
+116561,no action found
+116619,no action found
+116758,no action found
+116801,no action found
+116813,no action found
+116843,no action found
+116864,no action found
+116962,no action found
+116993,no action found
+117036,no action found
+117247,no action found
+117451,no action found
+117683,no action found
+117713,no action found 2 2 3 4 5 6 7 8 9 10 1 2 3 4 5 6 7 8 9 10 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8
+117812,no action found
+117910,no action found 3 2 4 5 6 7 8 9 10 1 2 3 4 5 6 7 8 9 10 1 2 3 4 5 6 7 8 9 10 1 2 3 4 5 6 7 8 9 10 1 2 3 4 5 6 7 8 9 10 1 2 3 4 5 6 7 8 9 10 1 2 3 4 5 6 7 8 9 10 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2
+118055,no action found
+118087,no action found
+118271,no action found
+118301,no action found 20 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+118326,no action found
+118359,"no action    #2    rescue    #3    escape    #4    heist    #5    fight    #6    pursuit    #7    speed    #8    none of the above - for scenes that do not fall into any of the aforementioned categories.
+        for a rescue scene,  2    rescue   #9    for a rescue scene,  2    rescue   #10    for a rescue scene,  2    rescue   #11    for a rescue scene,  2    rescue   #12    for a rescue scene,  2    rescue   #13    for a rescue scene,  2    rescue   #14    for a rescue scene,  2    rescue   #15    for a rescue scene,  2    rescue   #16    for a rescue scene,  2    rescue   #17    for a rescue scene,  2    rescue   #18    for a rescue scene,  2    rescue   #19    for a rescue scene,  2    rescue   #20    for a rescue scene,  2    rescue   #21    for a rescue scene,  2    rescue   #22    for a rescue scene,  2    rescue   #23    for a rescue scene,  2    rescue   #24    for a rescue scene,  2    rescue   #25    for a rescue scene,  2    rescue   #26    for a rescue scene,  2    rescue   #27    for a rescue scene,  2    rescue   #28    for a rescue scene,  2    rescue   #29    for a rescue scene,  2    rescue   #30    for a rescue scene,  2    rescue   #31    for a rescue scene,  2    rescue   #32    for a rescue scene,  2    rescue   #33    for a rescue scene,  2    rescue   #34    for a rescue scene,  2    rescue   #35    for a rescue scene,  2    rescue   #36    for a rescue scene,  2    rescue   #37    for a rescue scene,  2    rescue   #38    for a rescue scene"
+118411,no action found
+118434,no action found
+118585,no action found
+118627,no action found
+118675,rescue
+118701,no action found 20 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+118870,rescue
+118911,no action found
+119118,no action found
+119139,no action found
+119616,no action found 20 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+119653,no action found
+119891,no action found 20 actions 30 40 50 60 70 80 90 100 150 200 250 300 400 500 600 750 900 120 150 200 250 300 400 500 600 750 900 120 250 300 400 500 600 750 900 120 250 300 400 500 600 750 900 120 250 300 400 500 600 750 900 120 250 300 400 500 600 750 900 120 250 300 400 500 600 750 900 120 250 300 400 500 600 750 900 120 250 300 400 500 600 750 900 120 250 300 400 500 600 750 900 120 250 300 400 500 600 750 900 120 250 300 400 500 600 750 900 120 250 300 400 500 600 750 900 120 250 300 400 500 600 750 900 120 250 300 400 500
+120155,no action found
+120233,no action found 3 2 4 5 6 7 8 9 10 1 2 3 4 5 6 7 8 9 10 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9
+120261,no action found
+120357,no action found
+120390,rescue
+120584,no action found 20    1   2   3   4   5   6   7   8  9   10  11  12  13  14  15  16  17  18  19  20  21  22  23  24  25  26  27  28  29  30  31  32  33  34  35  36  37  38  39  40  41  42  43  44  45  46  47  48  49  50  51  52  53  54  55  56  57  58  59  60  61  62  63  64  65  66  67  68  70  71  72  73  74  75  76  77  78  80  81  82  83  84  85  86  87  88  90  91  92  93  94  95  96  97  98  100  101  102  103  104  105  106  107  108  109  110  111  112  113  114  115  116  117  118  119  120  121  122  123  124  125  126
+120766,no action found
+120802,no action found
+120869,no action
+120917,no action found
+121051,no action found
+121070,the action is capture and fight
+121105,no action found 1 2 3 4 5 6 7 8 9 10 1 2 3 4 5 6 7 8 9 10 1 2 3 4 6 7 8 9 10 1 2 3 4 6 7 8 9 10 1 2 3 4 6 7 8 9 10 1 2 3 4 6 7 8 9 10 1 2 3 4 6 7 8 9 10 1 2 3 4 6 7 8 9 10 1 2 3 4 6 7 8 9 10 1 2 3 4 6 7 8 9 10 1 2 3 4 6 7 8 9 10 1 2 3 4 6 7 8 9 10 1 2 3 4 6 7 8 9 10 1 2 3 4 6 7 8 9 10 1 2 3 4 6 7 8 9 10 1 2 3 4 6 7 8 9 10 1 2 3 4 6 7 8 9 10 1 2 3 4 6 7 8 9 10 1 2 3 4 6 7 8 9 10 1 2 3 4 6 7 8 9 10 1 2 3 4 6 7 8 9 10 1 2 3 4 6 7 8 9 10 1 2 3 4 6 7 8 9 10 1 2 3 4 6 7 8 9 10 1 2 3 4 6 7 8 9 10 1 2 3 4 6 7 8 9 10 1 2 3 4 6
+121137,no action found
+121162,no action found
+121258,no action found
+121288,no action found
+121364,no action found 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+121896,no action found
+121954,no action found 1.  a scene with a person in a purple suit and a black hat.  2.  a scene with a person in a purple suit and a black hat.  3.  a scene with a person in a purple suit and a black hat.  4.  a scene with a person in a purple suit and a black hat.  5.  a scene with a person in a purple suit and a black hat.  6.  a scene with a person in a purple suit and a black hat.  7.  a scene with a person in a purple suit and a black hat.  8.  a scene with a person in a purple suit and a black hat.  9.  a scene with a person in a purple suit and a black hat.  10.  a scene with a person in a purple suit and a black hat.  11.  a scene with a person in a purple suit and a black hat.  12.  a scene with a person in a purple suit and a black hat.  13.  a scene with a person in a purple suit and a black hat.  14.  a scene with a person in a purple suit and a black hat.  15.  a scene with a person in a purple suit and a black hat.  16.  a scene with a person in a purple suit and a black hat.  17.  a scene with a person in a purple suit and a black hat.  18.  a scene with a person in a purple suit and a black hat.  19.  a scene with a person in a purple suit and a black hat.  20.  a scene with a person in a purple suit and a black hat.  21.  a scene with a person in a purple suit and a black hat.  22.  a scene with a person in a purple suit and a black hat.  23.  a scene with a person in a purple suit and a black hat.  24.  a scene with a person in a purple suit and a black hat.  25.  a scene with a person in a purple suit and a black hat.  26.  a scene with a person in a purple suit and a black hat
+122154,no action found
+122191,escape
+122314,no action found
+122398,no action found
+122439,no action found 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 2 3 4 5 6 7 8 9 0 2 3 4 5 6 7 8 9 0 2 3 4 5 6 7 8 9 0 2 3 4 5 6 7 8 9 0 2 3 4 5 6 7 8 9 0 2 3 4 5 6 7 8 9 0 2 3 4 5 6 7 8 9 0 2 3 4 5 6 7 8 9 0 2 3 4 5 6 7 8 9 0 2 3 4 5 6 7 8 9 0 2 3 4 5 6 7 8 9 0 2 3 4 5 6 7 8 9 0 2 3 4 5 6 7 8 9 0 2 3 4 5 6 7 8 9 0 2 3 4 5 6 7 8 9 0 2 3 4 5 6 7 8 9 0 2 3 4 5 6 7 8 9 0 2 3 4 5 6 7 8 9 0 2 3 4 5 6 7 8 9 0 2 3 4 5 6 7 8 9 0 2 3 4 5 6 7 8 9 0 2 3 4 5 6 7 8 9 0 2 3 4 5 6 7 8 9 0 2 3 4 5 6 7 8 9 0 2 3 4 5 6 7 8 9 0 2 3 4 5 6 7 8 9 0 2 3
+122505,no action found
+122977,no action found
+123647,1
+123728,no action found
+123974,1
+124154,"the video can have 3 categories if possible. for example, a scene can have rescue and escape."
+124528,no action found
+124726,no action found 20 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+125568,no action found
+125731,rescue
+125921,no action found
+127053,no action found
+127163,no action found
+127258,no action found
+127346,no action found
+127458,no action found
+127571,no action found 3 2 4 5 6 7 8 9 10 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 67 70 71 72 73 74 75 76 77 78 80 81 82 83 84 85 86 87 88 90 91 92 93 94 95 96 97 98 100 101 102 103 104 105 106 107 108 109 110 111 112 113 114 115 116 117 118 119 120 121 122 123 124 125 126 127 128 129 130 131 132 133 134 135 136 137 138 139 140 141 142 143 144 145 146 147 148 149 150 151 152 153 154 155 156 157 158 159 160
+127726,no action
+127931,no action found
+128009,escape
+128742,no action
+128799,1
+129002,no action found
+129098,no action found
+129386,no action found
+129801,no action found
+131241,no action found
+131292,no action found
+131466,no action
+131491,rescue
+131534,no action found
+131575,no action found
+131587,no action found 30 seconds 10 minute 20 hour 20 minute 40 hour 1 15 minute 30 minute  1 hour 30 minute  20 minute  24 hour  1  2  3  4  5  6  7  8  9  10  12  20  25  36  48  54  72  90  100  120  200  300  400  500  600  700  900  1000  200  300  400  500  600  750  950  1200  250  400  600  750  980  1250  300  400  600  750  980  1500  400  600  750  980  250  400  600  750  980  300  400  600  750  980  400  600  750  980  500  600  750  980  750  800  900  1000  250  400  600  750  980  250  400  600  750  980  300  400  600  750  980  400  600  750  980  500  600  750  9
+131633,no action found
+131811,no action found
+131878,no action found
+132025,no action found
+132080,no action found
+132228,no action found
+132475,no action found
+132571,no action found 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+132682,no action found
+132731,no action found
+132812,no action found
+132870,no action found
+132953,no action found
+135155,no action found
+135302,no action found 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 60 61 62 63 64 65 72 73 74 75 76 77 82 83 84 85 86 87 92 93 94 95 96 97 10 2 3 4 5 6 7 8 9 1 2 3 4 6 7 8 9 1 2 3 4 6 7 8 9 1 2 3 4 6 7 8 9 1 2 3 4 6 7 8 9 1 2 3 4 6 7 8 9 1 2 3 4 6 7 8 9 1 2 3 4 6 7 8 9 1 2 3 4 6 7 8 9 1 2 3 4 6 7 8 9 1 2 3 4 6 7 8 9 1 2 3 4 6 7 8 9 1 2 3 4 6 7 8 9 1 2 3 4 6 7 8 9 1 2 3 4 6 7 8 9 1 2 3 4 6 7 8 9 1 2 3 4 6 7 8
+135330,no action found
+135343,no action found
+135538,speed
+135762,no action found
+135782,"the video can have speed and fight.
+     a scene can have speed and fight.
+     a scene can have speed and fight.
+     a scene can have speed and fight.
+     a scene can have speed and fight.
+     a scene can have speed and fight.
+     a scene can have speed and fight.
+     a scene can have speed and fight.
+     a scene can have speed and fight.
+     a scene can have speed and fight.
+     a scene can have speed and fight.
+     a scene can have speed and fight.
+     a scene can have speed and fight.
+     a scene can have speed and fight.
+     a scene can have speed and fight.
+     a scene can have speed and fight.
+     a scene can have speed and fight.
+     a scene can have speed and fight.
+     a scene can have speed and fight.
+     a scene can have speed and fight.
+     a scene can have speed and fight.
+     a scene can have speed and fight.
+     a scene can have speed and fight.
+     a scene can have speed and fight.
+     a scene can have speed and fight.
+     a scene can have speed and fight.
+     a scene can have speed and fight.
+     a scene can have speed and fight.
+     a scene can have speed and fight.
+     a scene can have speed and fight.
+     a scene can have speed and fight.
+     a scene can have speed and fight.
+     a scene can have speed and fight.
+     a scene can have speed and fight.
+     a scene can have speed and fight.
+     a scene can have speed and fight.
+     a scene can have speed and fight.
+     a scene can have speed and fight.
+     a scene can have speed and fight.
+     a scene can have speed and fight.
+     a scene can have speed and fight.
+     a scene can have speed and fight.
+     a scene can have speed and fight.
+     a scene can have speed and fight.
+     a scene can have speed and fight.
+     a scene can have speed and fight.
+     a scene can have speed and fight.
+     a scene can have speed and fight.
+     a scene can have speed and fight.
+     a scene can have speed and fight.
+     a scene can have speed and fight.
+     a scene can have speed and fight.
+     a scene can have speed and fight.
+     a scene can have speed and fight."
+135934,no action found
+136046,"the video can have escape and speed.
+    a scene can have escape and speed.
+    a scene can have escape and speed.
+    a scene can have escape and speed.
+    a scene can have escape and speed.
+    a scene can have escape and speed.
+    a scene can have escape and speed.
+    a scene can have escape and speed.
+    a scene can have escape and speed.
+    a scene can have escape and speed.
+    a scene can have escape and speed.
+    a scene can have escape and speed.
+    a scene can have escape and speed.
+    a scene can have escape and speed.
+    a scene can have escape and speed.
+    a scene can have escape and speed.
+    a scene can have escape and speed.
+    a scene can have escape and speed.
+    a scene can have escape and speed.
+    a scene can have escape and speed.
+    a scene can have escape and speed.
+    a scene can have escape and speed.
+    a scene can have escape and speed.
+    a scene can have escape and speed.
+    a scene can have escape and speed.
+    a scene can have escape and speed.
+    a scene can have escape and speed.
+    a scene can have escape and speed.
+    a scene can have escape and speed.
+    a scene can have escape and speed.
+    a scene can have escape and speed.
+    a scene can have escape and speed.
+    a scene can have escape and speed.
+    a scene can have escape and speed.
+    a scene can have escape and speed.
+    a scene can have escape and speed.
+    a scene can have escape and speed.
+    a scene can have escape and speed.
+    a scene can have escape and speed.
+    a scene can have escape and speed.
+    a scene can have escape and speed.
+    a scene can have escape and speed.
+    a scene can have escape and speed.
+    a scene can have escape and speed.
+    a scene can have escape and speed.
+    a scene can have escape and speed.
+    a scene can have escape and speed.
+    a scene can have escape and speed.
+    a scene can have escape and speed.
+    a scene can have escape and speed.
+    a scene can have escape and speed.
+    a scene can have escape and speed.
+    a scene can have escape and speed.
+    a scene can have escape and speed.
+    a scene can have escape and speed.
+    a scene can have escape and speed.
+    a scene can have escape and speed.
+    a scene can have escape and speed.
+    a scene can have escape and speed.
+    a scene can have escape and speed.
+    a scene can have escape and speed.
+    a scene can have escape and speed.
+    a scene can have escape and speed.
+    a scene can have escape and speed.
+    a scene can have escape and speed.
+    a scene can have escape and speed.
+    a scene can have escape and speed.
+    a scene can have escape and speed.
+    a scene can have escape and speed.
+    a scene can have escape and speed.
+    a scene can have escape and speed.
+    a scene can have escape and speed.
+    a scene can have escape and speed."
+136204,no action found
+136240,no action found
+136345,no action found 2 2 3 4 5 6 7 8 9 10 1 2 3 4 5 6 7 8 9 10 2 3 4 5 6 7 8 9 12 2 3 4 5 6 7 8 13 2 3 4 5 6 7 8 14 2 3 4 5 6 7 15 2 3 4 5 6 7 16 2 3 4 5 6 7 17 2 3 4 5 6 7 18 2 3 4 5 6 7 19 2 3 4 5 6 7 2 3 4 5 6 7 1 2 3 4 5 6 7 1 2 3 4 5 6 7 1 2 3 4 5 6 7 1 2 3 4 5 6 7 1 2 3 4 5 6 7 1 2 3 4 5 6 7 1 2 3 4 5 6 7 1 2 3 4 5 6 7 1 2 3 4 5 6 7 1 2 3 4 5 6 7 1 2 3 4 5 6 7 1 2 3 4 5 6 7 1 2 3 4 5 6 7 1 2 3 4 5 6 7 1 2 3 4 5 6 7 1 2 3 4 5 6 7 1 2 3 4 5 6 7 1 2 3 4 5 6 7 1 2 3 4 5 6 7 1 2 3 4 5 6 7 1 2 3 4 5 6 7 1 2 3 4 5 6 7 1 2 3
+136392,"it can have a rescue and escape.
+     a scene can have a rescue and escape.
+     a scene can have a rescue and escape.
+     a scene can have a rescue and escape.
+     a scene can have a rescue and escape.
+     a scene can have a rescue and escape.
+     a scene can have a rescue and escape.
+     a scene can have a rescue and escape.
+     a scene can have a rescue and escape.
+     a scene can have a rescue and escape.
+     a scene can have a rescue and escape.
+     a scene can have a rescue and escape.
+     a scene can have a rescue and escape.
+     a scene can have a rescue and escape.
+     a scene can have a rescue and escape.
+     a scene can have a rescue and escape.
+     a scene can have a rescue and escape.
+     a scene can have a rescue and escape.
+     a scene can have a rescue and escape.
+     a scene can have a rescue and escape.
+     a scene can have a rescue and escape.
+     a scene can have a rescue and escape.
+     a scene can have a rescue and escape.
+     a scene can have a rescue and escape.
+     a scene can have a rescue and escape.
+     a scene can have a rescue and escape.
+     a scene can have a rescue and escape.
+     a scene can have a rescue and escape.
+     a scene can have a rescue and escape.
+     a scene can have a rescue and escape.
+     a scene can have a rescue and escape.
+     a scene can have a rescue and escape.
+     a scene can have a rescue and escape.
+     a scene can have a rescue and escape.
+     a scene can have a rescue and escape.
+     a scene can have a rescue and escape.
+     a scene can have a rescue and escape.
+     a scene can have a rescue and escape.
+     a scene can have a rescue and escape.
+     a scene can have a rescue and escape.
+     a scene can have a rescue and escape.
+     a scene can have a rescue and escape.
+     a scene can have a rescue and escape.
+     a scene can have a rescue and escape.
+     a scene can have a rescue and escape.
+     a scene can have a rescue and escape.
+     a scene can have a rescue and escape.
+     a scene can have a rescue and escape.
+     a scene can have a rescue and escape.
+     a scene can have a rescue and escape.
+     a scene can have a rescue and escape.
+     a scene can"
+136442,no action found
+136501,no action found
+136732,no action found
+136805,no action found
+136844,no action found
+136970,escape and speed
+137024,no action found
+137038,no action found
+137260,no action found
+137491,"1
+rescue"
+137541,no action found
+137585,no action found
+137638,no action found
+137703,no action found
+137776,no action - for scenes that do not involve rescue or escape.
+137812,no action found
+137848,no action found
+138065,no action found
+138147,no action found
+138196,no action found
+138318,no action found
+138467,no action found
+138571,no action found
+138676,no action found 2 2 3 4 5 6 7 8  none of the above  1 2 3 4 5 6 7 8  1 2 3 4 5 6 7 8  none of the above  1 2 3 4 5 6 7 8  1 2 3 4 5 6 7 8  none of the above  1 2 3 4 5 6 7 8  1 2 3 4 5 6 7 8  none of the above  1 2 3 4 5 6 7 8  1 2 3 4 5 6 7 8  none of the above  1 2 3 4 5 6 7 8  1 2 3 4 5 6 7 8  none of the above  1 2 3 4 5 6 7 8  1 2 3 4 5 6 7 8  none of the above  1 2 3 4 5 6 7 8  1 2 3 4 5 6 7 8  none of the above  1 2 3 4 5 6 7 8  1 2 3 4 5 6 7 8  none of the above  1 2 3 4 5 6 7 8  1 2 3 4 5 6 7 8  none of the above  1 2 3 4 5 6 7 8  1 2 3 4 5 6 7 8  none of the above  1 2 3 4 5 6 7 8  1 2 3 4 5 6 7 8  none of the above  1 2 3 4 5 6 7 8  1 2 3 4 5 6 7 8  none of the above  1 2 3 4 5 6 7 8  1
+138790,no action found
+138840,no action found
+138881,no action found
+138917,no action found
+139016,rescue
+139179,no action found
+139299,no action found
+139425,no action found
+139546,no action found
+139662,no action found
+139762,no action found
+139862,no action found
+140060,no action found
+140134,no action found
+140285,no action found
+140349,no action found
+140424,no action found
+140532,no action found
+140662,no action found
+140760,no action found
+140825,no action found
+140954,no action found
+140996,no action found
+140998,no action found
+141046,no action found
+141209,no action found
+141245,no action found
+141335,no action found
+141508,no action found
+141565,no action found
+141768,no action found
+141799,no action found
+142441,no action found
+142529,no action found
+142697,no action found
+142778,no action found
+143350,escape
+143525,no action found
+143683,none of the above
+143741,no action found
+143825,no action found
+143886,no action found
+144010,no action found
+144067,no action found
+144189,no action found
+144425,no action
+144501,no action found
+144578,escape and fight
+144783,no answer
+144830,no action found
+145016,no action found
+145106,no action found
+145198,no action found
+145250,no action found
+145359,no action found
+145424,no action found
+145486,no action found
+145680,no action found
+145857,no action found
+145922,no action found
+145990,no action found
+146015,"the video can have rescue and escape.
+     the scene can have rescue and escape.
+     the scene can have rescue and escape.
+     the scene can have rescue and escape.
+     the scene can have rescue and escape.
+     the scene can have rescue and escape.
+     the scene can have rescue and escape.
+     the scene can have rescue and escape.
+     the scene can have rescue and escape.
+     the scene can have rescue and escape.
+     the scene can have rescue and escape.
+     the scene can have rescue and escape.
+     the scene can have rescue and escape.
+     the scene can have rescue and escape.
+     the scene can have rescue and escape.
+     the scene can have rescue and escape.
+     the scene can have rescue and escape.
+     the scene can have rescue and escape.
+     the scene can have rescue and escape.
+     the scene can have rescue and escape.
+     the scene can have rescue and escape.
+     the scene can have rescue and escape.
+     the scene can have rescue and escape.
+     the scene can have rescue and escape.
+     the scene can have rescue and escape.
+     the scene can have rescue and escape.
+     the scene can have rescue and escape.
+     the scene can have rescue and escape.
+     the scene can have rescue and escape.
+     the scene can have rescue and escape.
+     the scene can have rescue and escape.
+     the scene can have rescue and escape.
+     the scene can have rescue and escape.
+     the scene can have rescue and escape.
+     the scene can have rescue and escape.
+     the scene can have rescue and escape.
+     the scene can have rescue and escape.
+     the scene can have rescue and escape.
+     the scene can have rescue and escape.
+     the scene can have rescue and escape.
+     the scene can have rescue and escape.
+     the scene can have rescue and escape.
+     the scene can have rescue and escape.
+     the scene can have rescue and escape.
+     the scene can have rescue and escape.
+     the scene can have rescue and escape.
+     the scene can have rescue and escape.
+     the scene can have rescue and escape.
+     the scene can have rescue and escape.
+     the scene can have rescue and escape.
+     the scene can have rescue and escape.
+     the scene can have rescue and escape.
+     the scene can have rescue and escape.
+     the scene can have rescue and escape.
+     the scene can have rescue and escape.
+     the scene can have rescue and escape.
+     the scene can have rescue and escape."
+146055,no action found
+146083,no action found
+146144,no action found
+146160,escape
+146224,no action found
+146259,no action found 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+146364,no action found
+146488,no action found
+146538,no action found
+146629,no action found
+146660,no action found
+146729,no action found
+146777,no action found
+146851,no action found
+146880,no action found
+146917,no action found
+146943,no action found
+147035,no action found
+147056,no action found
+147085,no action found
+147123,no action found
+147264,no answer
+147329,no action found 20 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+147410,no action found
+147488,no action found
+147541,no action found
+147589,no   action  for  scene  he  of  a  man  he  man  2  man  3  man  4  man  5  man  6  man  7  man  8  man  9  man  1  man  2  man  3  man  4  man  5  man  6  man  7  man  8  man  9  man  1  man  2  man  3  man  4  man  5  man  6  man  7  man  8  man  9  man  1  man  2  man  3  man  4  man  5  man  6  man  7  man  8  man  9  man  1  man  2  man  3  man  4  man  5  man  6  man  7  man  8  man  9  man  1  man  2  man  3  man  4  man  5  man  6  man  7  man  8  man  9  man  1  man  2  man  3  man  4  man  5  man  6  man  7  man  8  man  9  man  1  man  2  man  3  man  4  man  5  man  6  man  7  man  8  man  9  man  1  man  2  man  3  man  4  man  5  man  6  man  7  man  8  man  9  man  1  man  2  man  3  man  4  man  5  man  6  man  7  man  8  man  9  man  1  man  2  man  3  man  4  man  5  man  6  man  7  man  8  man  9  man
+147762,no action found
+148321,"for a scene that includes rescue, you can include a scene that includes rescue. for a scene that includes rescue, you can include a scene that includes rescue. for a scene that includes rescue, you can include a scene that includes rescue. for a scene that includes rescue, you can include a scene that includes rescue. for a scene that includes rescue, you can include a scene that includes rescue. for a scene that includes rescue, you can include a scene that includes rescue. for a scene that includes rescue, you can include a scene that includes rescue. for a scene that includes rescue, you can include a scene that includes rescue. for a scene that includes rescue, you can include a scene that includes rescue."
+148360,no action
+148626,no action found
+148711,no action found
+148843,no action found
+149074,no action found
+149106,no action found
+149135,no action found
+149168,no action found
+149209,no action found
+149248,no action found
+149362,no action found
+149427,no action found
+149527,no action found
+149745,no action found 2 2 3 4 5 6 7 8 9 10 1 2 3 4 5 6 7 8 9 10 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8
+149827,no action found
+149927,"the video can have rescue and escape.
+     a scene can have rescue and escape.
+     a scene can have rescue and escape.
+     a scene can have rescue and escape.
+     a scene can have rescue and escape.
+     a scene can have rescue and escape.
+     a scene can have rescue and escape.
+     a scene can have rescue and escape.
+     a scene can have rescue and escape.
+     a scene can have rescue and escape.
+     a scene can have rescue and escape.
+     a scene can have rescue and escape.
+     a scene can have rescue and escape.
+     a scene can have rescue and escape.
+     a scene can have rescue and escape.
+     a scene can have rescue and escape.
+     a scene can have rescue and escape.
+     a scene can have rescue and escape.
+     a scene can have rescue and escape.
+     a scene can have rescue and escape.
+     a scene can have rescue and escape.
+     a scene can have rescue and escape.
+     a scene can have rescue and escape.
+     a scene can have rescue and escape.
+     a scene can have rescue and escape.
+     a scene can have rescue and escape.
+     a scene can have rescue and escape.
+     a scene can have rescue and escape.
+     a scene can have rescue and escape.
+     a scene can have rescue and escape.
+     a scene can have rescue and escape.
+     a scene can have rescue and escape.
+     a scene can have rescue and escape.
+     a scene can have rescue and escape.
+     a scene can have rescue and escape.
+     a scene can have rescue and escape.
+     a scene can have rescue and escape.
+     a scene can have rescue and escape.
+     a scene can have rescue and escape.
+     a scene can have rescue and escape.
+     a scene can have rescue and escape.
+     a scene can have rescue and escape.
+     a scene can have rescue and escape.
+     a scene can have rescue and escape.
+     a scene can have rescue and escape.
+     a scene can have rescue and escape.
+     a scene can have rescue and escape.
+     a scene can have rescue and escape.
+     a scene can have rescue and escape.
+     a scene can have rescue and escape.
+     a scene can have rescue and escape.
+     a scene can have rescue and escape.
+     a scene can have rescue and escape.
+     a scene can have rescue and escape.
+     a scene can have rescue and escape.
+     a scene can have rescue and escape.
+     a scene can have rescue and escape."
+150023,no action found
+150077,no action found
+150259,"no action found  
+    the video can have 3 action  
+    the video can have  2 rescue  
+    the video can have  3 escape 
+    the video can have  2  rescue  with  3  escape  with  2  2  rescue  with  3  escape  and  1  rescue  with  2  escape .  the  video  can  have  3  rescue  with  3  escape  and  1  rescue  with  2  escape .  the  video  can  have  2  rescue  with  3  escape  and  1  rescue  with  2  escape .  the  video  can  have  3  rescue  with  3  escape  and  1  rescue  with  2  escape .  the  video  can  have  2  rescue  with  3  escape  and  1  rescue  with  2  escape .  the  video  can  have  3  rescue  with  3  escape  and  1  rescue  with  2  escape .  the  video  can  have  2  rescue  with  3  escape  and  1  rescue  with  2  escape .  the  video  can  have  3  rescue  with  3  escape  and  1  rescue  with  2  escape .  the  video  can  have  2  rescue  with  3  escape  and  1  rescue  with  2  escape .  the  video  can  have  3  rescue  with  3  escape  and  1  rescue  with  2  escape .  the  video  can  have  2  rescue  with  3  escape  and  1  rescue  with  2  escape .  the  video  can  have  3  rescue  with  3  escape  and  1  rescue  with  2  escape .  the  video  can  have  2  rescue  with  3  escape  and  1  rescue  with  2  escape .  the  video  can"
+150308,no action found
+150350,no action found
+150373,no action found 2 2 3 4 5 6 7 8 9 10 1 2 3 4 5 6 7 8 9 10 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8
+150432,no action found 20    <action>  20    <action>  20    <action>  20    <action>  20    <action>  20    <action>  20    <action>  20    <action>  20    <action>  20    <action>  20    <action>  20    <action>  20    <action>  20    <action>  20    <action>  20    <action>  20    <action>  20    <action>  20    <action>  20    <action>  20    <action>  20    <action>  20    <action>  20    <action>  20    <action>  20    <action>  20    <action>  20    <action>  20    <action>  20    <action>  20    <action>  20    <action>  20    <action>  20    <action>  20    <action>  20    <action>  20    <action>  20    <action>  20    <action>  20    <action>  20    <action>  20    <action>  20    <action>  20    <action>  20    <action>  20    <action>  20    <action>  20    <action>  20    <action>  20    <action>  20    <action>  20    <action>  20    <action>  20    <action>  20    <action>  20    <action>  20    <action>  20    <action>  20    <action>  20    <action>  20    <action>  20    <action>  20    <action>  20    <
+150458,no   action   for   rescue   he    escape   capture   he    4   2   7   none   of   the   above   for   scene   he    rescue   he    escape   capture   he    4   2   7   none   of   the   above   for   scene   he    escape   capture   he    4   2   7   none   of   the   above   for   scene   he    rescue   he    escape   capture   he    4   2   7   none   of   the   above   for   scene   he    escape   capture   he    4   2   7   none   of   the   above   for   scene   he    rescue   he    escape   capture   he    4   2   7   none   of   the   above   for   scene   he    escape   capture   he    4   2   7   none   of   the   above   for   scene   he    rescue   he    escape   capture   he    4   2   7   none   of   the   above   for   scene   he    escape   capture   he    4   2   7   none   of   the   above   for   scene   he    rescue   he    escape   capture   he    4   2   7   none   of   the   above   for   scene   he    rescue   he    escape   capture   he    4   2   7   none   of   the   above   for   scene   he    rescue   he    escape   capture   he    4   2   7   none   of   the   above   for   scene   he    rescue   he    escape   capture   he    4   2   7   none   of   the   above   for   scene   he    rescue   he    escape   capture   he    4   2   7   none   of   the   above   for   scene   he    rescue   he    escape   capture   he    4   2   7   none   of   the   above   for   scene   he    rescue   he    escape   capture   he    4   2   7   none   of   the   above
+150490,no action found
+150493,no action found
+150518,no answer
+150572,no action found
+150690,no action found
+150711,no action found
+150827,no action found
+150849,no action found
+150932,no action found
+150941,no action found
+150946,no action found
+150947,no action found
+150979,no action found
+151071,"rescue
+    rescue
+    rescue
+    rescue
+    rescue
+    rescue
+    rescue
+    rescue
+    rescue
+    rescue
+    rescue
+    rescue
+    rescue
+    rescue
+    rescue
+    rescue
+    rescue
+    rescue
+    rescue
+    rescue
+    rescue
+    rescue
+    rescue
+    rescue
+    rescue
+    rescue
+    rescue
+    rescue
+    rescue
+    rescue
+    rescue
+    rescue
+    rescue
+    rescue
+    rescue
+    rescue
+    rescue
+    rescue
+    rescue
+    rescue
+    rescue
+    rescue
+    rescue
+    rescue
+    rescue
+    rescue
+    rescue
+    rescue
+    rescue
+    rescue
+    rescue
+    rescue
+    rescue
+    rescue
+    rescue
+    rescue
+    rescue
+    rescue
+    rescue
+    rescue
+    rescue
+    rescue
+    rescue
+    rescue
+    rescue
+    rescue
+    rescue
+    rescue
+    rescue
+    rescue
+    rescue
+    rescue
+    rescue
+    rescue
+    rescue
+    rescue
+    rescue
+    rescue
+    rescue
+    rescue
+    rescue
+    rescue
+    rescue
+    rescue
+    rescue
+    rescue
+    rescue
+    rescue
+    rescue
+    rescue
+    rescue
+    rescue
+    rescue
+    rescue
+    rescue
+    rescue
+    rescue
+    rescue
+    rescue
+    rescue
+    rescue
+    rescue
+    rescue
+    rescue
+    rescue
+    rescue
+    rescue
+    rescue
+    rescue
+    rescue
+    rescue
+    rescue
+    rescue
+    rescue
+    rescue
+    rescue
+    rescue
+    rescue
+    rescue
+    rescue
+    rescue
+    rescue
+    rescue
+    rescue
+    rescue
+    rescue
+    rescue
+    rescue
+    rescue
+    rescue
+    rescue
+    rescue
+    rescue
+    rescue
+    rescue
+    rescue
+    rescue
+    rescue
+    rescue
+    rescue
+    rescue
+    rescue
+    rescue
+    rescue
+    rescue
+    rescue
+    rescue
+    rescue
+    rescue
+    rescue
+    rescue
+    rescue
+    rescue
+    rescue
+    rescue
+    rescue
+    rescue
+    rescue
+    rescue
+    rescue
+    rescue
+    rescue
+    rescue
+    rescue
+    rescue
+    rescue
+    rescue
+    rescue
+    rescue
+    rescue
+    rescue"
+151140,no action
+151168,no action found
+151285,"the video can have 2 or 3 or 4 or 5 or 6 or 7 or 8 or 9 or 0 or 1 of the above.
+    you can also categorize scenes that have 2 or 3 or 4 or 5 or 6 or 7 or 8 or 9 or 0 of the scene.
+    you can also categorize scenes that have 2 or 3 or 4 or 5 or 6 or 7 or 8 of the film.
+    you can also categorize scenes that have 2 or 3 or 4 or 5 or 6 or 7 or 8 of the action.
+    you can also categorize scenes that have 2 or 3 or 4 or 5 or 6 or 7 or 8 of the music.
+    you can also categorize scenes that have 2 or 3 or 4 or 5 or 6 or 7 or 8 of the dance.
+    you can also categorize scenes that have 2 or 3 or 4 or 5 or 6 or 7 or 8 of the movie.
+    you can also categorize scenes that have 2 or 3 or 4 or 5 or 6 or 7 or 8 of the tv.
+    you can also categorize scenes that have 2 or 3 or 4 or 5 or 6 or 7 or 8 of the game.
+    you can also categorize scenes that have 2 or 3 or 4 or 5 or 6 or 7 or 8 of the music.
+    you can also categorize scenes that have 2 or 3 or 4 or 5 or 6 or 7 or 8 of the dance.
+    you can also categorize scenes that have 2 or 3 or 4 or 5 or 6 or 7 or 8 of the movie.
+    you can also categorize scenes that have 2 or 3 or 4 or 5 or 6 or 7 or 8 of the tv.
+    you can also categorize scenes that have 2 or 3 or 4 or 5 or 6 or 7 or 8 of the game.
+    you can also categorize scenes that have 2 or 3 or 4 or 5 or 6 or 7 or 8 of the music.
+    you can also categorize scenes"
+151312,no action found 3 2 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 70 71 72 73 74 75 76 77 78 79 80 81 82 83 84 85 86 87 88 89 90 91 92 93 94 95 96 97 98 99 100 101 102 103 104 105 106 107 108 109 110 111 112 113 114 115 116 117 118 119 120 121 122 123 124 125 126 127 128 129 130 131 132 133 134 135 136 137 138 139 140 141 142 143 144 145 146 147 148 149 150 151 152 153 154 155 1
+151983,no action found
+151997,no answer
+152641,no action found
+152693,no action found
+152767,1
+152807,no action found
+152945,"the video can have rescue and escape.
+     the video can have rescue and escape.
+     the video can have rescue and escape.
+     the video can have rescue and escape.
+     the video can have rescue and escape.
+     the video can have rescue and escape.
+     the video can have rescue and escape.
+     the video can have rescue and escape.
+     the video can have rescue and escape.
+     the video can have rescue and escape.
+     the video can have rescue and escape.
+     the video can have rescue and escape.
+     the video can have rescue and escape.
+     the video can have rescue and escape.
+     the video can have rescue and escape.
+     the video can have rescue and escape.
+     the video can have rescue and escape.
+     the video can have rescue and escape.
+     the video can have rescue and escape.
+     the video can have rescue and escape.
+     the video can have rescue and escape.
+     the video can have rescue and escape.
+     the video can have rescue and escape.
+     the video can have rescue and escape.
+     the video can have rescue and escape.
+     the video can have rescue and escape.
+     the video can have rescue and escape.
+     the video can have rescue and escape.
+     the video can have rescue and escape.
+     the video can have rescue and escape.
+     the video can have rescue and escape.
+     the video can have rescue and escape.
+     the video can have rescue and escape.
+     the video can have rescue and escape.
+     the video can have rescue and escape.
+     the video can have rescue and escape.
+     the video can have rescue and escape.
+     the video can have rescue and escape.
+     the video can have rescue and escape.
+     the video can have rescue and escape.
+     the video can have rescue and escape.
+     the video can have rescue and escape.
+     the video can have rescue and escape.
+     the video can have rescue and escape.
+     the video can have rescue and escape.
+     the video can have rescue and escape.
+     the video can have rescue and escape.
+     the video can have rescue and escape.
+     the video can have rescue and escape.
+     the video can have rescue and escape.
+     the video can have rescue and escape.
+     the video can have rescue and escape.
+     the video can have rescue and escape.
+     the video can have rescue and escape.
+     the video can have rescue and escape.
+     the video can have rescue and escape.
+     the video can have rescue and escape."
+153121,none of the above
+153911,no action
+154143,no action found
+154389,20  30  40  50  60  70  80  90  100  20  30  40  50  60  70  80  90  100  20  30  40  50  60  70  80  90  100  30  40  50  60  70  80  90  100  40  50  60  70  80  90  100  20  30  40  50  60  70  80  90  100  30  40  50  60  70  80  90  100  40  50  60  70  80  90  100  20  30  40  50  60  70  80  90  100  30  40  50  60  70  80  90  100  40  50  60  70  80  90  100  50  60  70  80  90  100  60  70  80  90  100  70  80  90  100  80  90  100  90  100  20  30  40  50  60  70  80  90  100  40  50  60  70  80
+154516,no action found
+155110,no action found
+155354,the video contains multiple categories.
+155531,no action found
+155687,no action found
+156104,no action found
+156663,no answer
+156804,escape
+156885,action
+157018,1
+157035,no action found
+157058,no action found
+157483,no action found
+158113,pursuit
+158248,no action found
+158281,no action found
+158407,no action found 2 2 3 4 5 6 7 8 9 10 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1
+159105,no action found
+159210,no action found
+159270,no action found
+159341,no action found
+159507,10
+159513,no action found
+159528,no action found
+159544,no action found
+159567,rescue
+159588,no action found
+159602,no action found 2  a  escape   3  a  escape   4  a  escape   5  a  escape   6  a  escape   7  a  escape   8  a  escape   9  a  escape   10  a  escape   11  a  escape   12  a  escape   13  a  escape   14  a  escape   15  a  escape   16  a  escape   17  a  escape   18  a  escape   19  a  escape   20  a  escape   21  a  escape   22  a  escape   23  a  escape   24  a  escape   25  a  escape   26  a  escape   27  a  escape   28  a  escape   29  a  escape   30  a  escape   31  a  escape   32  a  escape   33  a  escape   34  a  escape   35  a  escape   36  a  escape   37  a  escape   38  a  escape   40  a  escape   41  a  escape   42  a  escape   43  a  escape   44  a  escape   45  a  escape   46  a  escape   47  a  escape   48  a  escape   50  a  escape   51  a  escape   52  a  escape   53  a  escape   54  a  escape   55  a  escape   56  a  escape   60  a  escape   61  a  escape   62  a  escape   63  a  escape   64  a  escape   65  a  escape   66  a  escape   70  a  escape   71  a  escape   72  a  escape   73  a  escape   74  a
+159621,none of the above - for scenes that do not fall into any of the aforementioned categories.
+159648,1
+159703,"the video can have 3 categories if possible: rescue, escape, and 2 categories if possible: rescue and escape. for example, a scene can have rescue and escape."
+160137,no action
+160393,no action found
+161161,no action found
+161632,no action
+161886,no action found
+161969,no action found
+162047,no action
+162379,no action found
+162418,no action found
+162471,a scene of capture and fight
+162726,no action found
+162745,no action found
+162761,no action found
+164000,no answer
+164029,no action found
+164275,no action found 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+164408,no action found
+164521,no action found
+165027,fight
+165064,no action found
+165626,no action found 10 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+165741,no action
+165873,rescue
+165916,no action found
+165940,"the video can have rescue and escape.
+     a scene can have a rescue and escape.
+     a scene can have a heist and escape.
+     a scene can have a rescue and escape.
+     a scene can have a heist and escape.
+     a scene can have a fight and escape.
+     a scene can have a pursuit and escape.
+     a scene can have a heist and escape.
+     a scene can have a fight and escape.
+     a scene can have a rescue and escape.
+     a scene can have a escape and rescue.
+     a scene can have a escape and rescue.
+     a scene can have a rescue and escape.
+     a scene can have a escape and rescue.
+     a scene can have a rescue and escape.
+     a scene can have a escape and rescue.
+     a scene can have a rescue and escape.
+     a scene can have a rescue and escape.
+     a scene can have a escape and rescue.
+     a scene can have a rescue and escape.
+     a scene can have a rescue and escape.
+     a scene can have a rescue and escape.
+     a scene can have a rescue and escape.
+     a scene can have a rescue and escape.
+     a scene can have a rescue and escape.
+     a scene can have a rescue and escape.
+     a scene can have a rescue and escape.
+     a scene can have a rescue and escape.
+     a scene can have a rescue and escape.
+     a scene can have a rescue and escape.
+     a scene can have a rescue and escape.
+     a scene can have a rescue and escape.
+     a scene can have a rescue and escape.
+     a scene can have a rescue and escape.
+     a scene can have a rescue and escape.
+     a scene can have a rescue and escape.
+     a scene can have a rescue and escape.
+     a scene can have a rescue and escape.
+     a scene can have a rescue and escape.
+     a scene can have a rescue and escape.
+     a scene can have a rescue and escape.
+     a scene can have a rescue and escape.
+     a scene can have a rescue and escape.
+     a scene can have a rescue and escape.
+     a scene can have a rescue and escape.
+     a scene can have a rescue and escape.
+     a scene can have a rescue and escape.
+     a scene can have a rescue and escape.
+     a scene can have a rescue and escape.
+     a scene can have a rescue and escape.
+     a scene can have a rescue and escape."
+166702,"your reply can include multiple categories if possible. for example, a scene can have rescue and escape."
+166708,no action found
+166730,no action found
+167038,no action found
+167161,no action found
+167339,no action found
+167365,1
+167429,no action found
+167478,no action found
+167606,no action found
+167738,no action found
+167817,no action found
+167918,no answer
+167990,no action found 2 2 3 4 5 6 7 8 9 10 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1
+168087,no action found
+168223,no action found
+168305,no action found
+168365,no answer
+168439,no action found
+168480,no action found
+168553,the video can have rescue and escape.
+168590,no action found
+168615,no action found 2 3 4 5 6 7 8 9 10 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 40 41 42 43 44 45 46 47 48 50 51 52 53 54 55 56 57 62  63  64  65  66  72  73  74  75  76  82  83  84  85  86  87  92  93  94  95  100  101  102  103  104  105  106  107  108  109  112  113  114  115  116  117  118  122  123  124  125  126  127  128  129  130  132  133  134  135  136  137  138  139  142  143  144  145  146  147  148  149  150  152  153  154  155  156  157  158  162  163  164  165  166  16
+168712,no action found
+168811,no action found
+168853,no action found
+168991,no action found 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+169049,no action found
+169112,rescue
+169204,no action found
+169273,no action found
+169327,the video can have 2 or 3. the video can have 4 or 5. the video can have 6. the video can have 7. the video can have 8. a scene can have 9. a scene can have 10. the video can have 11. the video can have 12. a scene can have 13. the video can have 14. the video can have 15. the video can have 16. the video can have 17. the video can have 18. the video can have 19. the video can have 20. the video can have 21. the video can have 22. the video can have 23. the video can have 24. the video can have 25. the video can have 26. the video can have 27. the video can have 28. the video can have 29. the video can have 30. the video can have 31. the video can have 32. the video can have 33. the video can have 34. the video can have 35. the video can have 36. the video can have 37. the video can have 38. the video can have 39. the video can have 40. the video can have 41. the video can have 42. the video can have 43. the video can have 44. the video can have 45. the video can have 46. the video can have 47. the video can have 48. the video can have 49. the video can have 50. the video can have 51. the video can have 52. the video can have 53. the video can have 54. the video can have 55. the video can have 56. the video can have 57. the video can have 58. the video can have 59. the video can have 60. the video can have 61. the video can have 62. the video can have 63. the video can have 64. the video can have 65. the video can have 66. the video can have 67.
+169374,"the video can have rescue and escape. for example, a scene can have a person holding a rescue gear and a character holding a rescue gear. for example, a scene can have a person in a purple costume and a character in a purple costume."
+169405,no action found 2 2 3 4 5 6 7 8 9 10 1 2 3 4 5 6 7 8 9 10 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8
+169450,capture
+169564,no action found 2 2 3 4 5 6 7 8 9 10 1 2 3 4 5 6 7 8 9 10 1 2 3 4 5 6 7 8 9 10 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7
+169601,no action found
+169644,no action found
+169687,no action found 2 2 3 4 5 6 7 8 9 10 1 2 3 4 5 6 7 8 9 10 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9
+169718,no action found 20 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+169790,no answer
+169847,rescue
+169939,no answer
+169997,"no action found  
+    the video can have  rescue  and  escape  as well as  no  action found .  for  rescue  and  escape  as well as  no  action found .  the  video  can  have  rescue  and  escape  as well as  no  action  found .  for  rescue  and  escape  as well as  no  action  found .  the  video  can  have  rescue  and  escape  as well as  no  action  found .  for  rescue  and  escape  as well as  no  action  found .  the  video  can  have  rescue  and  escape  as well as  no  action  found .  for  rescue  and  escape  as well as  no  action  found .  the  video  can  have  rescue  and  escape  as well as  no  action  found .  for  rescue  and  escape  as  no  action  found .  the  video  can  have  rescue  and  escape  as  no  action  found .  for  rescue  and  escape  as  no  action  found .  the  video  can  have  rescue  and  escape  as  no  action  found .  for  rescue  and  escape  as  no  action  found .  the  video  can  have  rescue  and  escape  as  no  action  found .  for  rescue  and  escape  as  no  action  found .  the  video  can  have  rescue  and  escape  as  no  action  found .  for  rescue  and  escape  as  no  action  found .  the  video  can  have  rescue  and  escape  as  no  action  found .  for  rescue  and  escape  as  no  action  found .  the  video  can  have  rescue  and  escape  as  no  action  found .  for  rescue  and  escape  as  no  action  found .  the  video  can  have  rescue  and  escape  as  no  action  found .  for  rescue  and  escape  as  no  action  found .  the  video  can  have  rescue  and  escape"
+170077,no action found
+170168,no action found 10  no action found 1  no action found  1  no action found  1  no action found  1  no action found  1  no action found  1  no action found  1  no action found  1  no action found  1  no action found  1  no action found  1  no action found  1  no action found  1  no action found  1  no action found  1  no action found  1  no action found  1  no action found  1  no action found  1  no action found  1  no action found  1  no action found  1  no action found  1  no action found  1  no action found  1  no action found  1  no action found  1  no action found  1  no action found  1  no action found  1  no action found  1  no action found  1  no action found  1  no action found  1  no action found  1  no action found  1  no action found  1  no action found  1  no action found  1  no action found  1  no action found  1  no action found  1  no action found  1  no action found  1  no action found  1  no action found  1  no action found  1  no action found  1  no action found  1  no action found  1  no action found  1  no action found  1  no action found  1  no action found  1  no action found  1  no action found  1  no action found  1  no action found  1  no action found  1  no action found  1  no action found  1  no action found  1  no action found  1  no action found  1  no action found  1  no action found  1  no action found  1  no action found  1  no action found  1  no action found  1  no action found  1  no action found  1  no action
+170186,no action found
+170226,no action found
+170312,no action found
+170497,no action
+170845,no action found
+170923,no action found
+171002,no action found
+171831,no action found
+171976,no action found
+172089,no action found
+172191,no action found
+172294,no action found 2 2 3 4 5 6 7 8 9 10 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1 2 3 4 5 6 7 8 9 1
+172791,no action found
+173706,no action found
+174025,the video can have 2 or 3 or 4 or 5 or 6 or 7 or 8. for example.
+174186,no action found 20    no action found 30    no action found 40    no action found 5  no action found 6  no action found 7  no action found 8  no action found 9  no action found 10  no action found 11  no action found 12  no action found 13  no action found 14  no action found 15  no action found 16  no action found 17  no action found 18  no action found 19  no action found 20  no action found 21  no action found 22  no action found 23  no action found 24  no action found 25  no action found 26  no action found 27  no action found 28  no action found 29  no action found 30  no action found 31  no action found 32  no action found 33  no action found 34  no action found 35  no action found 36  no action found 37  no action found 38  no action found 39  no action found 40  no action found 41  no action found 42  no action found 43  no action found 44  no action found 45  no action found 46  no action found 47  no action found 48  no action found 49  no action found 50  no action found 51  no action found 52  no action found 53  no action found 54  no action found 55  no action found 56  no action found 57  no action found 58  no action found 60  no action found 61  no action found 62  no action found 63  no action found 64  no action found 65  no action found 66  no action found 7  no action found 7  no action found 8  no action found 9  no action found 10  no action found 11  no action found 12  no action found 13  no action found 14  no action found 15  no action found
+174235,"the video can have 3 categories: rescue, escape, and 2 categories: rescue and escape. the video can have 4 categories: rescue, escape, and 2 categories: rescue and escape. the video can have 5 categories: rescue, escape, and 2 categories: rescue and escape. the video can have 6 categories: rescue, escape, and 2 categories: rescue and escape. the video can have 7 categories: rescue, escape, and 2 categories: rescue and escape. the video can have 8 categories: rescue, escape, and 2 categories: rescue and escape. the video can have 9 categories: rescue, escape, and 2 categories: rescue and escape. the video can have 10 categories: rescue, escape, and 2 categories: rescue and escape. the video can have 11 categories: rescue, escape, and 2 categories: rescue and escape. the video can have 12 categories: rescue, escape, and 2 categories: rescue and escape. the video can have 13 categories: rescue, escape, and 2 categories: rescue and escape. the video can have 14 categories: rescue, escape, and 2 categories: rescue and escape. the video can have 15 categories: rescue, escape, and 2 categories: rescue and escape. the video can have 16 categories: rescue, escape, and 2 categories: rescue and escape. the video can have 17 categories: rescue, escape, and 2 categories: rescue and escape. the video can have 18 categories: rescue, escape, and 2 categories: rescue and escape. the video can have 19 categories: rescue, escape, and 2 categories: rescue and escape. the video can have 20 categories: rescue, escape, and 2 categories: rescue and escape. the video can have 21 categories: rescue, escape, and 2 categories: rescue and escape. the video can have 22 categories: rescue, escape, and 2 categories: rescue and escape. the video can have 23 categories: rescue, escape, and 2 categories: rescue and escape. the video can have 24 categories: rescue, escape, and 2 categories: rescue and escape. the video can have 25 categories: rescue, escape, and 2 categories: rescue and escape. the video can have 26 categories: rescue, escape,"
+174594,no action found
+175033,action 10
+175223,no action found
+176198,no action found
+176291,no action found
+176298,no action found
