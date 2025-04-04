@@ -38,5 +38,5 @@ Use PySceneDetect to segment movies into meaningful scenes based on content.
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue.svg)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
 ![Last Commit](https://img.shields.io/github/last-commit/Mario263)
-![Issues](https://img.shields.io/github/issues/Mario263)
+![Issues](https://img.shields.io/github/issues/https://github.com/Mario263/ECE-910/tree/main)
 ![Stars](https://img.shields.io/github/stars/Mario263/ECE-910)
